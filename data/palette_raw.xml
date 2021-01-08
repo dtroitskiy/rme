@@ -1,0 +1,194 @@
+<materials>
+    <!-- Note that other palette definitions may also add to the RAW palette through the use of the <raw> tag. -->
+    <!-- Manually add stuff to this file only if it doesn't yet belong anywhere else / isn't ready to be categorized / WIP -->
+
+	<tileset name="(Don't Use): Slight Changes Needed">
+        <raw>
+            <item id="2221"/>
+            <item id="2222"/>
+            <item id="2223"/>
+            <item id="2224"/>
+            <item id="2216"/>
+            <item id="2211"/>
+        </raw>
+	</tileset>
+
+	<tileset name="(Don't Use): Duplicate, Redundant ">
+         <raw>
+            <item id="1216"/>
+            <item id="370"/>
+            <item id="133"/>
+            <item id="414"/>
+            <item id="488"/>
+            <item id="2363"/>
+            <item id="573"/>
+            <item id="574"/>
+            <item id="571"/>
+            <item id="572"/>
+            <item id="1907"/>
+            <item id="429"/>
+            <item id="1042"/>
+            <item id="1171"/>
+            <item fromid="1220" toid="1223"/>
+         </raw>
+    </tileset>
+
+	<tileset name="(Don't Use): Deprecated, Looks Bad ">
+		<raw>
+            <!-- Deprecated: Sand -->
+            <item fromid="593" toid="627"/>
+
+            <!-- Deprecated: Snow Mountain -->
+            <item fromid="980" toid="997"/>
+            <item fromid="998" toid="999"/>
+
+            <!-- Deprecated: White Mountain -->
+            <item fromid="1126" toid="1137"/>
+
+            <!-- Deprecated: Bushes -->
+            <item id="220"/>
+            <item id="1039"/>
+            <item id="2166"/>
+            <item id="2167"/>
+            <item id="1787"/>
+
+            <!-- Trees -->
+            <item fromid="307" toid="310"/>
+            <item fromid="362" toid="365"/>
+            <item fromid="367" toid="369"/>
+            <item id="919"/>
+            <item id="1022"/>
+            <item id="1033"/>
+            <item id="2174"/>
+            <item id="2177"/>
+            <item fromid="372" toid="375"/>
+            <item fromid="2175" toid="2176"/>
+
+            <!-- Food Decor -->
+            <item fromid="377" toid="388"/>
+            <item fromid="389" toid="392"/>
+            <item fromid="454" toid="459"/>
+
+            <!-- Boiling Pot -->
+            <item id="1001"/>
+
+            <!-- Stones -->
+            <item id="156"/>
+            <item id="330"/>
+            <item id="346"/>
+            <item id="345"/>
+            <item id="324"/>
+            <item id="348"/>
+            <item id="323"/>
+
+            <!-- Other -->
+            <item id="577"/>
+            <item id="1966"/>
+            <item id="935"/>
+            <item id="936"/>
+            <item id="218"/>
+            <item fromid="501" toid="502"/>
+            <item id="213"/>
+            <item id="1003"/>
+            <item id="938"/>
+            <item id="1191"/>
+
+            <!-- Wall -->
+            <item fromid="252" toid="261"/>
+		</raw>
+	</tileset>
+
+<tileset name="# MISC Animations">
+    <raw>
+        <item id="1000"/>
+        <item id="1002"/>
+        <item fromid="1004" toid="1006"/>
+        <item id="1138"/>
+        <item id="1411"/>
+        <item id="2462"/>
+        <item id="2220"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Royal Brick Wall">
+    <raw>
+        <item fromid="1792" toid="1799"/>
+        <item fromid="1832" toid="1855"/>
+        <item fromid="1858" toid="1862"/>
+        <item fromid="1865" toid="1876"/>
+        <item fromid="1891" toid="1965"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Old Stone Wall 2">
+    <raw>
+        <item fromid="1484" toid="1498"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Stacked Log">
+    <raw>
+        <item fromid="2556" toid="2561"/>
+        <item id="2553"/>
+        <item id="2552"/>
+        <item id="2554"/>
+        <item id="2555"/>
+        <item id="2562"/>
+        <item id="2568"/>
+        <item id="2569"/>
+        <item id="2570"/>
+
+        <item id="2575"/>
+        <item id="2567"/>
+        <item fromid="2571" toid="2574"/>
+        <item fromid="2563" toid="2566"/>
+        <item fromid="2576" toid="2596"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Enormous Orc Wall">
+    <raw>
+        <item fromid="2270" toid="2279"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Wooden Railing 1">
+    <raw>
+        <item fromid="472" toid="487"/>
+        <item fromid="518" toid="546"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Wooden Railing 2">
+    <raw>
+        <item fromid="1143" toid="1157"/>
+    </raw>
+</tileset>
+
+<tileset name="Set: Old Wooden Wall Appendages">
+    <raw>
+        <item fromid="245" toid="251"/>
+        <item fromid="267" toid="276"/>
+    </raw>
+</tileset>
+
+
+<tileset name="NonAutoBrushed: Terrains">
+    <raw>
+        <item fromid="628" toid="644"/>
+        <item fromid="645" toid="657"/>
+        <item fromid="728" toid="738"/>
+        <item id="1204"/>
+        <item id="1203"/>
+        <item id="939"/>
+        <item fromid="1007" toid="1018"/>
+        <item fromid="1043" toid="1046"/>
+        <item fromid="1048" toid="1064"/>
+        <item id="1236"/>
+        <item id="1234"/>
+        <item id="1235"/>
+        <item fromid="1073" toid="1105"/>
+    </raw>
+</tileset>
+
+</materials>

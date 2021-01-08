@@ -1,0 +1,1718 @@
+<materials>
+
+	<brush name="Dead Bushes" type="doodad" server_lookid="123" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="127" chance="10"/>
+		<item id="123" chance="10"/>
+		<item id="125" chance="10"/>
+		<item id="131" chance="10"/>
+		<item id="129" chance="4"/>
+	</brush>
+
+	<brush name="Dead Bushes (Snow)" type="doodad" server_lookid="124" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="128" chance="10"/>
+		<item id="124" chance="10"/>
+		<item id="126" chance="10"/>
+		<item id="132" chance="10"/>
+		<item id="130" chance="3"/>
+	</brush>
+
+	<brush name="White Bushes (Snow)" type="doodad" server_lookid="359" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1503" chance="5"/>
+		<item id="1506" chance="7"/>
+		<item id="358" chance="6"/>
+		<item id="359" chance="6"/>
+		<item id="360" chance="8"/>
+		<item id="361" chance="4"/>
+	</brush>
+
+	<brush name="Jasmine Wallflowers" type="doodad" server_lookid="2161" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="2161" chance="10"/>
+            <item id="2162" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2163" chance="10"/>
+            <item id="2160" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Piles of Cut Wood" type="doodad" server_lookid="2348" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+            <item id="2358" chance="10"/>
+            <item id="2348" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2357" chance="10"/>
+            <item id="2347" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Pile of Tree Trunks" type="doodad" server_lookid="2350" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+            <item id="2350" chance="10"/>
+            <item id="2356" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2349" chance="10"/>
+            <item id="2355" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Cart Cargo (Wood)" type="doodad" server_lookid="2366" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+            <item id="2360" chance="10"/>
+            <item id="2366" chance="10"/>
+            <item id="2351" chance="10"/>
+            <item id="2352" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2353" chance="10"/>
+            <item id="2359" chance="10"/>
+            <item id="2367" chance="10"/>
+            <item id="2354" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Small Lying Trunk" type="doodad" server_lookid="2345" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+            <item id="2345" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2344" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Dead Trees" type="doodad" server_lookid="2209" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2209" chance="5"/>
+		<item id="2216" chance="3"/>
+		<item id="2217" chance="9"/>
+		<item id="2218" chance="9"/>
+		<item id="2210" chance="6"/>
+	</brush>
+
+	<brush name="Dead Trees (Snow)" type="doodad" server_lookid="2214" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2214" chance="5"/>
+		<item id="2211" chance="3"/>
+		<item id="2212" chance="9"/>
+		<item id="2213" chance="9"/>
+		<item id="2215" chance="6"/>
+	</brush>
+
+	<brush name="Dead Trees 2" type="doodad" server_lookid="1025" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1025" chance="5"/>
+		<item id="1023" chance="5"/>
+	</brush>
+
+	<brush name="Dead Trees 2 (Snow)" type="doodad" server_lookid="1026" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1024" chance="5"/>
+		<item id="1026" chance="5"/>
+	</brush>
+
+	<brush name="Dead Trees 3" type="doodad" server_lookid="2221" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2221" chance="5"/>
+		<item id="2222" chance="5"/>
+	</brush>
+
+	<brush name="Dead Trees 3 (Frozen)" type="doodad" server_lookid="2223" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2223" chance="5"/>
+		<item id="2224" chance="5"/>
+	</brush>
+
+	<brush name="Snowy Briar" type="doodad" server_lookid="204" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="204" chance="4"/>
+		<item id="205" chance="4"/>
+		<item id="206" chance="7"/>
+		<item id="207" chance="7"/>
+		<item id="208" chance="4"/>
+	</brush>
+
+	<brush name="Grass Tufts (Frozen)" type="doodad" server_lookid="2223" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2265" chance="5"/>
+		<item id="2266" chance="5"/>
+	</brush>
+
+	<brush name="Small Ground Flowers (Frozen)" type="doodad" server_lookid="2262" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2261" chance="3"/>
+		<item id="2262" chance="3"/>
+		<item id="2263" chance="4"/>
+		<item id="2264" chance="5"/>
+		<item id="2267" chance="3"/>
+	</brush>
+
+	<brush name="Blue Mushrooms" type="doodad" server_lookid="173" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="173" chance="3"/>
+		<item id="174" chance="7"/>
+		<item id="175" chance="7"/>
+		<item id="176" chance="6"/>
+		<item id="177" chance="6"/>
+		<item id="178" chance="5"/>
+		<item id="907" chance="6"/>
+	</brush>
+
+	<brush name="Glowing Blue Mushrooms" type="doodad" server_lookid="2601" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2601" chance="3"/>
+		<item id="2604" chance="7"/>
+		<item id="2600" chance="7"/>
+		<item id="2602" chance="6"/>
+		<item id="2598" chance="6"/>
+		<item id="2603" chance="5"/>
+		<item id="2599" chance="6"/>
+		<item id="2605" chance="6"/>
+	</brush>
+
+	<brush name="Wondrous Blue Mushrooms" type="doodad" server_lookid="908" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="908" chance="7"/>
+		<item id="909" chance="4"/>
+		<item id="910" chance="2"/>
+		<item id="911" chance="3"/>
+		<item id="912" chance="6"/>
+	</brush>
+
+	<brush name="Corn" type="doodad" server_lookid="180" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="180" chance="7"/>
+		<item id="181" chance="7"/>
+		<item id="182" chance="7"/>
+	</brush>
+
+	<brush name="Harvested Corn" type="doodad" server_lookid="186" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="186" chance="7"/>
+		<item id="187" chance="7"/>
+		<item id="188" chance="7"/>
+	</brush>
+
+	<brush name="Swinging Algae" type="doodad" server_lookid="351" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="351" chance="7"/>
+		<item id="352" chance="7"/>
+		<item id="353" chance="7"/>
+		<item id="354" chance="7"/>
+		<item id="355" chance="7"/>
+		<item id="356" chance="7"/>
+		<item id="357" chance="7"/>
+		<item id="940" chance="7"/>
+		<item id="941" chance="7"/>
+		<item id="942" chance="7"/>
+		<item id="943" chance="7"/>
+		<item id="944" chance="7"/>
+		<item id="945" chance="7"/>
+		<item id="946" chance="7"/>
+		<item id="947" chance="7"/>
+		<item id="948" chance="7"/>
+		<item id="949" chance="7"/>
+		<item id="950" chance="7"/>
+		<item id="951" chance="7"/>
+		<item id="952" chance="7"/>
+		<item id="953" chance="7"/>
+	</brush>
+
+
+	<brush name="Small Attachable Grass" type="doodad" server_lookid="1065" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1065" chance="7"/>
+		<item id="1066" chance="7"/>
+		<item id="1067" chance="3"/>
+		<item id="1068" chance="7"/>
+		<item id="1069" chance="7"/>
+		<item id="1070" chance="7"/>
+		<item id="1071" chance="7"/>
+		<item id="1072" chance="7"/>
+	</brush>
+
+	<brush name="Brisk Weeds" type="doodad" server_lookid="1205" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1205" chance="7"/>
+		<item id="1206" chance="7"/>
+		<item id="1207" chance="3"/>
+		<item id="1208" chance="7"/>
+		<item id="1209" chance="7"/>
+	</brush>
+
+	<brush name="Red Blossom" type="doodad" server_lookid="1669" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1661" chance="3"/>
+		<item id="1662" chance="7"/>
+		<item id="1665" chance="7"/>
+		<item id="1666" chance="7"/>
+		<item id="1669" chance="7"/>
+		<item id="1668" chance="9"/>
+		<item id="1667" chance="2"/>
+		<item id="1663" chance="1"/>
+		<item id="1664" chance="2"/>
+	</brush>
+
+	<brush name="Morass Fern" type="doodad" server_lookid="1517" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1531" chance="6"/>
+		<item id="1530" chance="6"/>
+		<item id="1529" chance="6"/>
+		<item id="1791" chance="3"/>
+		<item id="1517" chance="5"/>
+		<item id="1518" chance="5"/>
+		<item id="1519" chance="4"/>
+	</brush>
+
+	<brush name="Drying Morass Fern" type="doodad" server_lookid="1528" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1528" chance="6"/>
+		<item id="1521" chance="6"/>
+		<item id="1522" chance="4"/>
+		<item id="1523" chance="3"/>
+	</brush>
+
+	<brush name="Small Morass Ferns (Autumn)" type="doodad" server_lookid="1768" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1768" chance="6"/>
+		<item id="1769" chance="6"/>
+		<item id="1772" chance="4"/>
+		<item id="1771" chance="3"/>
+	</brush>
+	<brush name="Small Morass Ferns (Spring)" type="doodad" server_lookid="1761" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1761" chance="6"/>
+		<item id="1770" chance="6"/>
+		<item id="1762" chance="4"/>
+		<item id="1763" chance="3"/>
+	</brush>
+	<brush name="Small Morass Ferns (Summer)" type="doodad" server_lookid="1750" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1750" chance="6"/>
+		<item id="1751" chance="6"/>
+		<item id="1754" chance="3"/>
+		<item id="1755" chance="4"/>
+		<item id="1789" chance="1"/>
+		<item id="1756" chance="4"/>
+	</brush>
+	<brush name="Tiny Outgrowths" type="doodad" server_lookid="1708" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1708" chance="6"/>
+		<item id="1524" chance="3"/>
+		<item id="1784" chance="3"/>
+		<item id="1783" chance="4"/>
+		<item id="1788" chance="5"/>
+	</brush>
+	<brush name="Fern Bushes" type="doodad" server_lookid="1525" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1525" chance="3"/>
+		<item id="1526" chance="4"/>
+		<item id="1527" chance="4"/>
+		<item id="1791" chance="3"/>
+	</brush>
+	<brush name="Grass Tufts 1" type="doodad" server_lookid="1745" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1738" chance="6"/>
+		<item id="1739" chance="6"/>
+		<item id="1744" chance="4"/>
+		<item id="1745" chance="4"/>
+		<item id="1746" chance="5"/>
+	</brush>
+	<brush name="Grass Tufts 2" type="doodad" server_lookid="1767" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1760" chance="8"/>
+		<item id="1759" chance="8"/>
+		<item id="1758" chance="8"/>
+		<item id="1757" chance="8"/>
+		<item id="1753" chance="8"/>
+		<item id="1767" chance="3"/>
+		<item id="1766" chance="3"/>
+		<item id="1765" chance="3"/>
+		<item id="1764" chance="3"/>
+	</brush>
+	<brush name="Grass Tufts 1 (Frozen)" type="doodad" server_lookid="1675" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1670" chance="8"/>
+		<item id="1672" chance="8"/>
+		<item id="1675" chance="8"/>
+		<item id="1676" chance="8"/>
+		<item id="1677" chance="8"/>
+	</brush>
+	<brush name="Watertop Plants" type="doodad" server_lookid="1781" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1781" chance="7"/>
+		<item id="1782" chance="7"/>
+		<item id="1785" chance="8"/>
+		<item id="1786" chance="8"/>
+		<item id="1731" chance="5"/>
+		<item id="1732" chance="5"/>
+		<item id="1735" chance="4"/>
+		<item id="1737" chance="4"/>
+	</brush>
+	<brush name="Clovers" type="doodad" server_lookid="1742" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1742" chance="4"/>
+		<item id="1740" chance="3"/>
+		<item id="1741" chance="3"/>
+		<item id="1747" chance="4"/>
+		<item id="1748" chance="3"/>
+		<item id="1749" chance="2"/>
+		<item id="1752" chance="1"/>
+	</brush>
+
+	<brush name="Crimson Pupps" type="doodad" server_lookid="1733" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1733" chance="2"/>
+		<item id="1711" chance="6"/>
+		<item id="1712" chance="3"/>
+		<item id="1713" chance="3"/>
+		<item id="1714" chance="5"/>
+		<item id="1715" chance="4"/>
+	</brush>
+
+	<brush name="Oran and Tulips" type="doodad" server_lookid="1705" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1720" chance="6"/>
+		<item id="1721" chance="6"/>
+		<item id="1722" chance="5"/>
+		<item id="1704" chance="4"/>
+		<item id="1705" chance="4"/>
+		<item id="1734" chance="1"/>
+		<item id="1706" chance="2"/>
+	</brush>
+
+	<brush name="Lillac and Violet" type="doodad" server_lookid="1707" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1709" chance="6"/>
+		<item id="1710" chance="6"/>
+		<item id="1718" chance="6"/>
+		<item id="1719" chance="5"/>
+		<item id="1727" chance="4"/>
+		<item id="1728" chance="4"/>
+		<item id="1729" chance="4"/>
+		<item id="1730" chance="4"/>
+		<item id="1707" chance="2"/>
+		<item id="1736" chance="1"/>
+	</brush>
+
+	<brush name="Nightsprout" type="doodad" server_lookid="1680" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1678" chance="5"/>
+		<item id="1679" chance="4"/>
+		<item id="1680" chance="5"/>
+		<item id="1681" chance="6"/>
+	</brush>
+
+	<brush name="Jasmine" type="doodad" server_lookid="1724" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1716" chance="5"/>
+		<item id="1717" chance="4"/>
+		<item id="1724" chance="5"/>
+		<item id="1723" chance="5"/>
+		<item id="1725" chance="3"/>
+		<item id="1726" chance="2"/>
+	</brush>
+
+	<brush name="Moonflower" type="doodad" server_lookid="1743" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1701" chance="5"/>
+		<item id="1702" chance="4"/>
+		<item id="1703" chance="5"/>
+		<item id="1743" chance="5"/>
+	</brush>
+
+	<brush name="Watertop Plants (Frozen)" type="doodad" server_lookid="1773" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1773" chance="7"/>
+		<item id="1774" chance="7"/>
+		<item id="1777" chance="8"/>
+		<item id="1778" chance="8"/>
+		<item id="1776" chance="5"/>
+		<item id="1674" chance="2"/>
+	</brush>
+
+	<brush name="Grass Tufts 2 (Frozen)" type="doodad" server_lookid="1697" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1694" chance="4"/>
+		<item id="1695" chance="4"/>
+		<item id="1696" chance="4"/>
+		<item id="1697" chance="4"/>
+		<item id="1686" chance="8"/>
+		<item id="1682" chance="8"/>
+		<item id="1687" chance="8"/>
+		<item id="1688" chance="8"/>
+		<item id="1689" chance="8"/>
+	</brush>
+
+	<brush name="Tiny Outgrowths (Frozen)" type="doodad" server_lookid="1780" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1699" chance="6"/>
+		<item id="1700" chance="3"/>
+		<item id="1775" chance="3"/>
+		<item id="1779" chance="4"/>
+		<item id="1780" chance="5"/>
+		<item id="1693" chance="5"/>
+	</brush>
+
+	<brush name="Frozen Ferns" type="doodad" server_lookid="1690" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1671" chance="6"/>
+		<item id="1673" chance="3"/>
+		<item id="1684" chance="3"/>
+		<item id="1685" chance="4"/>
+		<item id="1690" chance="5"/>
+		<item id="1691" chance="5"/>
+		<item id="1692" chance="5"/>
+		<item id="1698" chance="5"/>
+	</brush>
+
+	<brush name="Gold Framed Painting" type="doodad" server_lookid="441" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="441" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="440" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Winter Village Painting" type="doodad" server_lookid="451" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="451" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="453" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Snowy Hills Painting" type="doodad" server_lookid="450" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="450" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="452" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Red Painting" type="doodad" server_lookid="449" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="449" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="445" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Night Over The Forest Painting" type="doodad" server_lookid="448" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="448" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="444" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Sunset over the Sea Painting" type="doodad" server_lookid="447" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="447" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="443" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Oriental Painting" type="doodad" server_lookid="442" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="442" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="446" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Brown Wood Chest" type="doodad" server_lookid="102" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="102" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="100" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="103" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="101" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Golden Lock Chest" type="doodad" server_lookid="104" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+        <item id="104" chance="10"/>
+    </alternate>
+    <alternate>
+        <item id="107" chance="10"/>
+    </alternate>
+    <alternate>
+        <item id="105" chance="10"/>
+    </alternate>
+    <alternate>
+        <item id="106" chance="10"/>
+    </alternate>
+	</brush>
+
+	<brush name="Open Book" type="doodad" server_lookid="401" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="401" chance="10"/>
+            <item id="402" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="403" chance="10"/>
+            <item id="404" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Darkwood Chair" type="doodad" server_lookid="424" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="424" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="426" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="425" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="427" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Fireplace (Unlit)" type="doodad" server_lookid="436" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="436" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="434" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Fireplace (Lit)" type="doodad" server_lookid="439" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="439" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="435" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Fireplace Chimney" type="doodad" server_lookid="437" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="437" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="438" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Silverware 1" type="doodad" server_lookid="463" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="463" chance="10"/>
+            <item id="464" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="466" chance="10"/>
+            <item id="465" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Piano" type="doodad" server_lookid="461" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="461" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="460" chance="10"/>
+        </alternate>
+	</brush>
+
+    <brush name="Brown Wooden Table" type="carpet" server_lookid="493">
+        <carpet align="n"      id="490"/>
+        <carpet align="e"      id="494"/>
+        <carpet align="s"      id="496"/>
+        <carpet align="w"      id="492"/>
+        <carpet align="center" id="493"/>
+
+        <carpet align="cnw"    id="489"/>
+        <carpet align="cne"    id="491"/>
+        <carpet align="cse"    id="497"/>
+        <carpet align="csw"    id="495"/>
+    </brush>
+
+	<brush name="Brittlewood Table (Stackable)" type="doodad" server_lookid="499" draggable="true" on_blocking="true" thickness="10/10">
+        <item id="499" chance="10"/>
+	</brush>
+	<brush name="Brittlewood Table (NonStackable)" type="doodad" server_lookid="500" draggable="true" on_blocking="true" thickness="10/10">
+        <item id="500" chance="10"/>
+	</brush>
+
+	<brush name="Giant Bed" type="doodad" server_lookid="510" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="510" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="508" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Wide Bed" type="doodad" server_lookid="511" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="511" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="511" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Cabinet Wardrobe" type="doodad" server_lookid="507" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="507" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1217" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Blue Bed" type="doodad" server_lookid="1351" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="1351" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1352" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Green Bed" type="doodad" server_lookid="1358" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="1358" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1359" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Red Bed" type="doodad" server_lookid="1353" draggable="true" on_blocking="true" thickness="10/10">
+            <item id="1353" chance="10"/>
+	</brush>
+	<brush name="Blue Double Bed" type="doodad" server_lookid="1355" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="1355" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1350" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Green Double Bed" type="doodad" server_lookid="1356" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="1356" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1349" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Red Double Bed" type="doodad" server_lookid="1354" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="1354" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1357" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Empty Wooden Wagon" type="doodad" server_lookid="2368" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="2368" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2369" chance="10"/>
+        </alternate>
+	</brush>
+	<brush name="Empty Wooden Double Wagon" type="doodad" server_lookid="2370" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="2370" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2371" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Wooden Counter" type="table" server_lookid="512">
+		<table align="north"> <item id="516" chance="10"/> </table>
+		<table align="vertical"> <item id="515" chance="10"/> </table>
+		<table align="south"> <item id="517" chance="10"/> </table>
+
+		<table align="west"> <item id="513" chance="10"/> </table>
+		<table align="horizontal"> <item id="512" chance="10"/> </table>
+		<table align="east"> <item id="514" chance="10"/> </table>
+
+		<table align="alone"> <item id="512" chance="10"/> </table>
+	</brush>
+
+	<brush name="Dirt Stones" type="doodad" server_lookid="152" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="135" chance="10"/>
+		<item id="136" chance="10"/>
+		<item id="137" chance="10"/>
+		<item id="138" chance="10"/>
+		<item id="139" chance="10"/>
+		<item id="140" chance="6"/>
+		<item id="141" chance="10"/>
+		<item id="142" chance="10"/>
+		<item id="143" chance="10"/>
+		<item id="144" chance="10"/>
+		<item id="145" chance="4"/>
+		<item id="146" chance="10"/>
+		<item id="147" chance="10"/>
+		<item id="148" chance="10"/>
+		<item id="149" chance="10"/>
+		<item id="150" chance="10"/>
+		<item id="151" chance="10"/>
+		<item id="152" chance="3"/>
+		<item id="153" chance="10"/>
+	</brush>
+
+
+	<brush name="Grey Pebbles" type="doodad" server_lookid="2238" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="2237" chance="10"/>
+		<item id="2238" chance="10"/>
+		<item id="2239" chance="10"/>
+		<item id="2240" chance="10"/>
+		<item id="2241" chance="10"/>
+	</brush>
+
+	<brush name="Dark Pebbles [Z: Size]" type="doodad" server_lookid="2249" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2235" chance="10"/>
+            <item id="2236" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2249" chance="10"/>
+            <item id="2248" chance="10"/>
+            <item id="2252" chance="5"/>
+        </alternate>
+	</brush>
+
+	<brush name="Brown Pebbles [Z: Size]" type="doodad" server_lookid="2247" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2234" chance="10"/>
+            <item id="2233" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2246" chance="7"/>
+            <item id="2247" chance="10"/>
+            <item id="2251" chance="7"/>
+            <item id="2254" chance="5"/>
+        </alternate>
+	</brush>
+
+	<brush name="Frozen Pebbles [Z: Size]" type="doodad" server_lookid="2244" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2232" chance="10"/>
+            <item id="2231" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2243" chance="7"/>
+            <item id="2244" chance="10"/>
+            <item id="2245" chance="7"/>
+            <item id="2253" chance="5"/>
+        </alternate>
+        <alternate>
+            <item id="2255" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Grey Stones [Z: Size]" type="doodad" server_lookid="317" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="215" chance="10"/>
+            <item id="312" chance="10"/>
+            <item id="219" chance="10"/>
+            <item id="217" chance="10"/>
+            <item id="314" chance="10"/>
+            <item id="316" chance="10"/>
+            <item id="318" chance="10"/>
+            <item id="216" chance="2"/>
+            <item id="326" chance="2"/>
+        </alternate>
+        <alternate>
+            <item id="313" chance="7"/>
+            <item id="315" chance="10"/>
+            <item id="317" chance="7"/>
+            <item id="319" chance="5"/>
+            <item id="328" chance="5"/>
+        </alternate>
+        <alternate>
+            <item id="327" chance="7"/>
+            <item id="329" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Submerged Stones [Z: Size]" type="doodad" server_lookid="337" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="333" chance="10"/>
+            <item id="332" chance="10"/>
+            <item id="338" chance="10"/>
+            <item id="336" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="339" chance="7"/>
+            <item id="337" chance="7"/>
+            <item id="334" chance="7"/>
+            <item id="335" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="340" chance="7"/>
+            <item id="341" chance="7"/>
+            <item id="342" chance="7"/>
+            <item id="350" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Half-Submerged Large Stones" type="doodad" server_lookid="347" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="347" chance="10"/>
+        <item id="343" chance="10"/>
+        <item id="344" chance="10"/>
+	</brush>
+
+	<brush name="Tall Granular Stones" type="doodad" server_lookid="325" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="325" chance="10"/>
+        <item id="321" chance="10"/>
+        <item id="322" chance="10"/>
+        <item id="331" chance="5"/>
+        <item id="212" chance="5"/>
+	</brush>
+
+	<brush name="Grey Plain Stones [Z: Size]" type="doodad" server_lookid="972" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="964" chance="10"/>
+            <item id="969" chance="10"/>
+            <item id="970" chance="10"/>
+            <item id="967" chance="6"/>
+        </alternate>
+        <alternate>
+            <item id="972" chance="7"/>
+            <item id="966" chance="7"/>
+            <item id="196" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="1214" chance="7"/>
+            <item id="193" chance="7"/>
+            <item id="192" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="White Plain Stones [Z: Size]" type="doodad" server_lookid="198" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="965" chance="10"/>
+            <item id="968" chance="10"/>
+            <item id="971" chance="10"/>
+            <item id="203" chance="6"/>
+        </alternate>
+        <alternate>
+            <item id="198" chance="7"/>
+            <item id="201" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="1215" chance="7"/>
+            <item id="199" chance="7"/>
+            <item id="973" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Bright Plain Stonepiles" type="doodad" server_lookid="197" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="195" chance="10"/>
+        <item id="197" chance="10"/>
+        <item id="194" chance="10"/>
+	</brush>
+	<brush name="Bright Plain Stonepiles (Winter)" type="doodad" server_lookid="200" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="202" chance="10"/>
+        <item id="974" chance="10"/>
+        <item id="200" chance="10"/>
+	</brush>
+
+	<brush name="Broken Pale Branches" type="doodad" server_lookid="2397" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2392" chance="10"/>
+        <item id="2393" chance="10"/>
+        <item id="2394" chance="10"/>
+        <item id="2395" chance="10"/>
+        <item id="2396" chance="10"/>
+        <item id="2397" chance="10"/>
+        <item id="2398" chance="10"/>
+        <item id="2399" chance="10"/>
+        <item id="2400" chance="10"/>
+	</brush>
+
+	<brush name="Broken Brown Branches" type="doodad" server_lookid="2304" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2300" chance="10"/>
+        <item id="2301" chance="10"/>
+        <item id="2302" chance="10"/>
+        <item id="2303" chance="10"/>
+        <item id="2304" chance="10"/>
+        <item id="2305" chance="10"/>
+        <item id="2306" chance="10"/>
+        <item id="2307" chance="10"/>
+	</brush>
+
+	<brush name="Broken Old Branches" type="doodad" server_lookid="210" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="209" chance="10"/>
+        <item id="210" chance="10"/>
+        <item id="211" chance="10"/>
+	</brush>
+
+	<brush name="Fallen Tree [Z: Turn]" type="doodad" server_lookid="116" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="116" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="117" chance="7"/>
+        </alternate>
+	</brush>
+	<brush name="Fallen Tree (Winter 1) [Z: Turn]" type="doodad" server_lookid="119" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="119" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="118" chance="7"/>
+        </alternate>
+	</brush>
+	<brush name="Fallen Tree (Winter 2) [Z: Turn]" type="doodad" server_lookid="371" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="371" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="366" chance="7"/>
+        </alternate>
+	</brush>
+	<brush name="Fallen Tree 2 (Winter) [Z: Turn]" type="doodad" server_lookid="190" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="190" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="189" chance="7"/>
+        </alternate>
+	</brush>
+
+
+	<brush name="Blood Blossoms" type="doodad" server_lookid="2404" draggable="true" on_blocking="true" thickness="6/10">
+            <item id="2401" chance="10"/>
+            <item id="2402" chance="10"/>
+            <item id="2403" chance="10"/>
+            <item id="2404" chance="2"/>
+            <item id="2405" chance="10"/>
+            <item id="2406" chance="10"/>
+            <item id="2407" chance="10"/>
+            <item id="2408" chance="10"/>
+            <item id="2409" chance="10"/>
+            <item id="2410" chance="10"/>
+            <item id="2411" chance="10"/>
+            <item id="2412" chance="10"/>
+            <item id="2413" chance="10"/>
+            <item id="2414" chance="10"/>
+            <item id="2415" chance="10"/>
+	</brush>
+
+	<brush name="Summer Blossoms" type="doodad" server_lookid="2312" draggable="true" on_blocking="true" thickness="6/10">
+            <item id="2308" chance="10"/>
+            <item id="2309" chance="10"/>
+            <item id="2310" chance="10"/>
+            <item id="2311" chance="10"/>
+            <item id="2312" chance="2"/>
+            <item id="2313" chance="10"/>
+            <item id="2314" chance="10"/>
+            <item id="2315" chance="10"/>
+            <item id="2316" chance="10"/>
+            <item id="2317" chance="10"/>
+            <item id="2318" chance="10"/>
+            <item id="2319" chance="10"/>
+            <item id="2320" chance="10"/>
+            <item id="2321" chance="10"/>
+            <item id="2322" chance="10"/>
+            <item id="2323" chance="10"/>
+            <item id="2324" chance="10"/>
+            <item id="2325" chance="10"/>
+            <item id="2326" chance="12"/>
+            <item id="2327" chance="10"/>
+            <item id="2328" chance="10"/>
+            <item id="2329" chance="10"/>
+            <item id="2330" chance="10"/>
+            <item id="2331" chance="10"/>
+            <item id="2332" chance="10"/>
+            <item id="2333" chance="10"/>
+            <item id="2334" chance="10"/>
+            <item id="2335" chance="10"/>
+            <item id="2336" chance="10"/>
+	</brush>
+
+	<brush name="Bright Forest Trees [Z: Size]" type="doodad" server_lookid="2280" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2283" chance="10"/>
+            <item id="2287" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2290" chance="7"/>
+            <item id="2282" chance="7"/>
+            <item id="2289" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="2286" chance="7"/>
+            <item id="2280" chance="7"/>
+            <item id="2291" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="2285" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Bright Forest Tree Clusters" type="doodad" server_lookid="2281" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2292" chance="10"/>
+        <item id="2295" chance="10"/>
+        <item id="2293" chance="10"/>
+        <item id="2281" chance="10"/>
+        <item id="2288" chance="10"/>
+	</brush>
+
+	<brush name="Bright Forest Bushes" type="doodad" server_lookid="2296" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2296" chance="6"/>
+        <item id="2297" chance="6"/>
+        <item id="2298" chance="10"/>
+        <item id="2299" chance="8"/>
+        <item id="2294" chance="2"/>
+	</brush>
+
+	<brush name="Dark Forest Bushes" type="doodad" server_lookid="2386" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2386" chance="6"/>
+        <item id="2384" chance="6"/>
+        <item id="2385" chance="10"/>
+        <item id="2383" chance="8"/>
+        <item id="2389" chance="2"/>
+	</brush>
+
+	<brush name="Dark Forest Trees [Z: Size]" type="doodad" server_lookid="1034" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2375" chance="10"/>
+            <item id="2382" chance="10"/>
+            <item id="2390" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1034" chance="7"/>
+            <item id="2376" chance="7"/>
+            <item id="2381" chance="7"/>
+            <item id="1030" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="2378" chance="7"/>
+            <item id="2380" chance="7"/>
+            <item id="2372" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="2373" chance="7"/>
+            <item id="2379" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Dark Forest Tree Clusters" type="doodad" server_lookid="2374" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="2374" chance="6"/>
+        <item id="2388" chance="6"/>
+        <item id="2387" chance="10"/>
+        <item id="2391" chance="8"/>
+        <item id="2377" chance="2"/>
+	</brush>
+
+	<brush name="Snow Covered Tall Dead Trees" type="doodad" server_lookid="920" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="917" chance="6"/>
+        <item id="2148" chance="6"/>
+        <item id="2151" chance="6"/>
+        <item id="2150" chance="6"/>
+        <item id="2149" chance="6"/>
+        <item id="918" chance="6"/>
+        <item id="2147" chance="6"/>
+        <item id="2152" chance="6"/>
+        <item id="920" chance="6"/>
+        <item id="2153" chance="6"/>
+	</brush>
+
+	<brush name="Snow Covered Trees" type="doodad" server_lookid="1213" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="1502" chance="6"/>
+        <item id="1501" chance="6"/>
+        <item id="1504" chance="6"/>
+        <item id="1213" chance="6"/>
+        <item id="1500" chance="6"/>
+        <item id="1505" chance="6"/>
+	</brush>
+
+	<brush name="Snow Covered Evergreen" type="doodad" server_lookid="1032" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="1032" chance="8"/>
+        <item id="1031" chance="8"/>
+        <item id="922" chance="3"/>
+	</brush>
+
+	<brush name="Trees 1" type="doodad" server_lookid="1509" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="1509" chance="8"/>
+        <item id="1508" chance="8"/>
+        <item id="1515" chance="8"/>
+        <item id="1507" chance="8"/>
+        <item id="1211" chance="8"/>
+	</brush>
+
+	<brush name="Trees 2" type="doodad" server_lookid="1514" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="1514" chance="8"/>
+        <item id="1513" chance="8"/>
+        <item id="1512" chance="8"/>
+        <item id="1510" chance="8"/>
+        <item id="1211" chance="8"/>
+        <item id="1511" chance="4"/>
+        <item id="1212" chance="3"/>
+	</brush>
+
+	<brush name="Winter Cherry Blossom" type="doodad" server_lookid="913" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="913" chance="8"/>
+        <item id="914" chance="3"/>
+        <item id="1021" chance="7"/>
+        <item id="1020" chance="2"/>
+        <item id="916" chance="4"/>
+        <item id="915" chance="2"/>
+	</brush>
+
+	<brush name="Wisteric Blossom" type="doodad" server_lookid="1029" draggable="true" on_blocking="true" thickness="6/10">
+        <item id="1029" chance="8"/>
+        <item id="1035" chance="3"/>
+        <item id="1037" chance="7"/>
+        <item id="1036" chance="4"/>
+	</brush>
+
+	<brush name="Bleek White Nature [Z: Size]" type="doodad" server_lookid="2172" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2185" chance="10"/>
+            <item id="2179" chance="10"/>
+            <item id="2188" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2172" chance="7"/>
+            <item id="2173" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Sunworn Green Trees [Z: Size]" type="doodad" server_lookid="2171" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2181" chance="10"/>
+            <item id="2184" chance="10"/>
+            <item id="2178" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2187" chance="7"/>
+            <item id="2171" chance="7"/>
+            <item id="1027" chance="7"/>
+        </alternate>
+        <alternate>
+            <item id="2169" chance="7"/>
+        </alternate>
+	</brush>
+
+	<brush name="Sunworn Dark Trees [Z: Size]" type="doodad" server_lookid="2170" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="2180" chance="10"/>
+            <item id="2183" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="2186" chance="7"/>
+            <item id="2191" chance="7"/>
+            <item id="2170" chance="7"/>
+            <item id="2168" chance="3"/>
+        </alternate>
+	</brush>
+
+	<brush name="Covers of Snow [Z: Size]" type="doodad" server_lookid="225" draggable="true" on_blocking="true" thickness="10/10">
+		<alternate>
+            <item id="225" chance="10"/>
+            <item id="226" chance="10"/>
+            <item id="229" chance="10"/>
+            <item id="230" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="227" chance="10"/>
+            <item id="228" chance="10"/>
+        </alternate>
+	</brush>
+
+	<brush name="Wooden Bridge (Z: Flip)" type="doodad" server_lookid="809" draggable="true" on_blocking="true" thickness="10/10">
+        <alternate>
+            <composite chance="10">
+                <!-- Bridge -->
+                <tile x="0" y="0">
+                    <item id="811"/>
+                    <item id="885"/>
+                </tile>
+                <tile x="0" y="-1">
+                    <item id="805"/>
+                    <item id="879"/>
+                </tile>
+                <tile x="0" y="-2">
+                    <item id="799"/>
+                    <item id="875"/>
+                </tile>
+                <tile x="0" y="-3">
+                    <item id="869"/>
+                </tile>
+                <tile x="-1" y="-3">
+                    <item id="868"/>
+                </tile>
+
+                <tile x="-1" y="0">
+                    <item id="810"/>
+                    <item id="884"/>
+                </tile>
+
+                <tile x="-1" y="-1">
+                    <item id="801"/>
+                    <item id="878"/>
+                </tile>
+
+                <tile x="-1" y="-2">
+                    <item id="798"/>
+                    <item id="874"/>
+                </tile>
+
+                <tile x="-2" y="0">
+                    <item id="809"/>
+                    <item id="883"/>
+                </tile>
+                <tile x="-2" y="-1"> <item id="803"/> </tile>
+                <tile x="-2" y="-2">
+                    <item id="797"/>
+                    <item id="873"/>
+                </tile>
+
+                <tile x="-3" y="0">
+                    <item id="808"/>
+                    <item id="882"/>
+                </tile>
+                <tile x="-3" y="-1"> <item id="802"/> </tile>
+                <tile x="-3" y="-2">
+                    <item id="796"/>
+                    <item id="872"/>
+                </tile>
+
+                <tile x="-4" y="0">
+                    <item id="807"/>
+                    <item id="881"/>
+                </tile>
+                <tile x="-4" y="-1">
+                    <item id="801"/>
+                    <item id="877"/>
+                </tile>
+                <tile x="-4" y="-2">
+                    <item id="795"/>
+                    <item id="871"/>
+                </tile>
+                <tile x="-4" y="-3">
+                    <item id="867"/>
+                </tile>
+
+                <tile x="-5" y="0">
+                    <item id="806"/>
+                    <item id="880"/>
+                </tile>
+                <tile x="-5" y="-1">
+                    <item id="800"/>
+                    <item id="876"/>
+                </tile>
+                <tile x="-5" y="-2">
+                    <item id="794"/>
+                    <item id="870"/>
+                </tile>
+                <tile x="-5" y="-3">
+                    <item id="866"/>
+                </tile>
+            </composite>
+        </alternate>
+        <alternate>
+            <composite chance="10">
+                <tile x="-1" y="0">
+                    <item id="890"/>
+                </tile>
+                <tile x="0" y="0">
+                    <item id="817"/>
+                    <item id="896"/>
+                </tile>
+                <tile x="1" y="0">
+                    <item id="823"/>
+                    <item id="900"/>
+                </tile>
+                <tile x="2" y="0">
+                    <item id="829"/>
+                    <item id="906"/>
+                </tile>
+                <tile x="-1" y="-1">
+                    <item id="889"/>
+                </tile>
+                <tile x="0" y="-1">
+                    <item id="816"/>
+                    <item id="895"/>
+                </tile>
+                <tile x="1" y="-1">
+                    <item id="822"/>
+                    <item id="899"/>
+                </tile>
+                <tile x="2" y="-1">
+                    <item id="828"/>
+                    <item id="905"/>
+                </tile>
+                <tile x="0" y="-2">
+                    <item id="815"/>
+                    <item id="894"/>
+                </tile>
+                <tile x="1" y="-2">
+                    <item id="821"/>
+                </tile>
+                <tile x="2" y="-2">
+                    <item id="827"/>
+                    <item id="904"/>
+                </tile>
+                <tile x="0" y="-3">
+                    <item id="814"/>
+                    <item id="893"/>
+                </tile>
+                <tile x="1" y="-3">
+                    <item id="820"/>
+                </tile>
+                <tile x="2" y="-3">
+                    <item id="826"/>
+                    <item id="903"/>
+                </tile>
+                <tile x="-1" y="-4">
+                    <item id="888"/>
+                </tile>
+                <tile x="0" y="-4">
+                    <item id="813"/>
+                    <item id="892"/>
+                </tile>
+                <tile x="1" y="-4">
+                    <item id="819"/>
+                    <item id="898"/>
+                </tile>
+                <tile x="2" y="-4">
+                    <item id="825"/>
+                    <item id="902"/>
+                </tile>
+                <tile x="-1" y="-5">
+                    <item id="887"/>
+                </tile>
+                <tile x="0" y="-5">
+                    <item id="812"/>
+                    <item id="891"/>
+                </tile>
+                <tile x="1" y="-5">
+                    <item id="818"/>
+                    <item id="897"/>
+                </tile>
+                <tile x="2" y="-5">
+                    <item id="824"/>
+                    <item id="901"/>
+                </tile>
+            </composite>
+        </alternate>
+	</brush>
+
+	<brush name="Wooden Snowed Bridge (Z: Flip)" type="doodad" server_lookid="844" draggable="true" on_blocking="true" thickness="10/10">
+        <alternate>
+            <composite chance="10">
+                <!-- Bridge -->
+                <tile x="0" y="0">
+                    <item id="847"/>
+                    <item id="885"/>
+                </tile>
+                <tile x="0" y="-1">
+                    <item id="841"/>
+                    <item id="879"/>
+                </tile>
+                <tile x="0" y="-2">
+                    <item id="835"/>
+                    <item id="875"/>
+                </tile>
+                <tile x="0" y="-3">
+                    <item id="869"/>
+                </tile>
+                <tile x="-1" y="-3">
+                    <item id="868"/>
+                </tile>
+
+                <tile x="-1" y="0">
+                    <item id="846"/>
+                    <item id="884"/>
+                </tile>
+
+                <tile x="-1" y="-1">
+                    <item id="840"/>
+                    <item id="878"/>
+                </tile>
+
+                <tile x="-1" y="-2">
+                    <item id="834"/>
+                    <item id="874"/>
+                </tile>
+
+                <tile x="-2" y="0">
+                    <item id="845"/>
+                    <item id="883"/>
+                </tile>
+                <tile x="-2" y="-1"> <item id="839"/> </tile>
+                <tile x="-2" y="-2">
+                    <item id="833"/>
+                    <item id="873"/>
+                </tile>
+
+                <tile x="-3" y="0">
+                    <item id="844"/>
+                    <item id="882"/>
+                </tile>
+                <tile x="-3" y="-1"> <item id="838"/> </tile>
+                <tile x="-3" y="-2">
+                    <item id="832"/>
+                    <item id="872"/>
+                </tile>
+
+                <tile x="-4" y="0">
+                    <item id="843"/>
+                    <item id="881"/>
+                </tile>
+                <tile x="-4" y="-1">
+                    <item id="837"/>
+                    <item id="877"/>
+                </tile>
+                <tile x="-4" y="-2">
+                    <item id="831"/>
+                    <item id="871"/>
+                </tile>
+                <tile x="-4" y="-3">
+                    <item id="867"/>
+                </tile>
+
+                <tile x="-5" y="0">
+                    <item id="842"/>
+                    <item id="880"/>
+                </tile>
+                <tile x="-5" y="-1">
+                    <item id="836"/>
+                    <item id="876"/>
+                </tile>
+                <tile x="-5" y="-2">
+                    <item id="830"/>
+                    <item id="870"/>
+                </tile>
+                <tile x="-5" y="-3">
+                    <item id="866"/>
+                </tile>
+            </composite>
+        </alternate>
+        <alternate>
+            <composite chance="10">
+                <tile x="-1" y="0">
+                    <item id="890"/>
+                </tile>
+                <tile x="0" y="0">
+                    <item id="853"/>
+                    <item id="896"/>
+                </tile>
+                <tile x="1" y="0">
+                    <item id="859"/>
+                    <item id="900"/>
+                </tile>
+                <tile x="2" y="0">
+                    <item id="865"/>
+                    <item id="906"/>
+                </tile>
+                <tile x="-1" y="-1">
+                    <item id="889"/>
+                </tile>
+                <tile x="0" y="-1">
+                    <item id="852"/>
+                    <item id="895"/>
+                </tile>
+                <tile x="1" y="-1">
+                    <item id="858"/>
+                    <item id="899"/>
+                </tile>
+                <tile x="2" y="-1">
+                    <item id="864"/>
+                    <item id="905"/>
+                </tile>
+                <tile x="0" y="-2">
+                    <item id="851"/>
+                    <item id="894"/>
+                </tile>
+                <tile x="1" y="-2">
+                    <item id="857"/>
+                </tile>
+                <tile x="2" y="-2">
+                    <item id="863"/>
+                    <item id="904"/>
+                </tile>
+                <tile x="0" y="-3">
+                    <item id="850"/>
+                    <item id="893"/>
+                </tile>
+                <tile x="1" y="-3">
+                    <item id="856"/>
+                </tile>
+                <tile x="2" y="-3">
+                    <item id="862"/>
+                    <item id="903"/>
+                </tile>
+                <tile x="-1" y="-4">
+                    <item id="888"/>
+                </tile>
+                <tile x="0" y="-4">
+                    <item id="849"/>
+                    <item id="892"/>
+                </tile>
+                <tile x="1" y="-4">
+                    <item id="855"/>
+                    <item id="898"/>
+                </tile>
+                <tile x="2" y="-4">
+                    <item id="861"/>
+                    <item id="902"/>
+                </tile>
+                <tile x="-1" y="-5">
+                    <item id="887"/>
+                </tile>
+                <tile x="0" y="-5">
+                    <item id="848"/>
+                    <item id="891"/>
+                </tile>
+                <tile x="1" y="-5">
+                    <item id="854"/>
+                    <item id="897"/>
+                </tile>
+                <tile x="2" y="-5">
+                    <item id="860"/>
+                    <item id="901"/>
+                </tile>
+            </composite>
+        </alternate>
+	</brush>
+
+
+	<brush name="Blood 1" type="doodad" server_lookid="1174" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1174" chance="4"/>
+		<item id="1175" chance="5"/>
+		<item id="1176" chance="6"/>
+	</brush>
+	<brush name="Blood 2" type="doodad" server_lookid="1173" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1171" chance="4"/>
+		<item id="1172" chance="5"/>
+		<item id="1173" chance="6"/>
+	</brush>
+	<brush name="Blood 3" type="doodad" server_lookid="1168" draggable="true" on_blocking="true" thickness="6/10">
+		<item id="1168" chance="4"/>
+		<item id="1169" chance="5"/>
+		<item id="1170" chance="6"/>
+	</brush>
+
+  <brush name="Small Wooden Gate Roof" type="doodad" server_lookid="1110" draggable="true" on_blocking="true" thickness="10/10">
+    <composite chance="10">
+        <tile x="0" y="0"> <item id="1110"/> </tile>
+        <tile x="1" y="0"> <item id="1111"/> </tile>
+        <tile x="-1" y="0"> <item id="1109"/> </tile>
+        <tile x="0" y="1"> <item id="1112"/> </tile>
+        <tile x="1" y="1"> <item id="1113"/> </tile>
+    </composite>
+	</brush>
+
+	<brush name="Weapon Store Sign (Z: Flip)" type="doodad" server_lookid="279" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="279" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="293" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="300" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="287" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Armor Store Sign (Z: Flip)" type="doodad" server_lookid="280" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="280" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="294" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="301" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="288" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Post Office Sign (Z: Flip)" type="doodad" server_lookid="281" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="281" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="295" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="302" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="289" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Tool Store Sign (Z: Flip)" type="doodad" server_lookid="282" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="282" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="296" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="304" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Empty Wooden Sign (Z: Flip)" type="doodad" server_lookid="283" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="283" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="297" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="306" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="290" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Restaurant Sign (Z: Flip)" type="doodad" server_lookid="284" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="284" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="298" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="303" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="291" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Tavern Sign (Z: Flip)" type="doodad" server_lookid="286" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="286" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="299" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="305" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="292" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Flicker of Snow (Z: Flip)" type="doodad" server_lookid="1139" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="1139" chance="10"/>
+          <item id="1140" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="1141" chance="10"/>
+          <item id="1142" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Stacked Wood Gaping Window (Z: Flip)" type="doodad" server_lookid="1158" draggable="true" on_blocking="true" thickness="10/10">
+      <alternate>
+          <item id="1158" chance="10"/>
+      </alternate>
+      <alternate>
+          <item id="1159" chance="10"/>
+      </alternate>
+	</brush>
+
+	<brush name="Dirt Sidestones (Z: Flip)" type="doodad" server_lookid="1567" draggable="true" on_blocking="true" thickness="6/10">
+        <alternate>
+            <item id="1567" chance="10"/>
+            <item id="1566" chance="10"/>
+            <item id="1568" chance="10"/>
+        </alternate>
+        <alternate>
+            <item id="1563" chance="7"/>
+            <item id="1565" chance="7"/>
+            <item id="1564" chance="7"/>
+        </alternate>
+	</brush>
+</materials>

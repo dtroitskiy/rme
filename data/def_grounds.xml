@@ -1,0 +1,394 @@
+<materials>
+
+<!-- Mountain Fills -->
+<brush name="ice mountain (fill)" type="ground" server_lookid="2038" z-order="9900">
+		<item id="2038" chance="250"/>
+		<border align="outer" id="24"/>
+		<border align="outer" to="none" id="24"/>
+		<border align="inner" id="32"/>
+		<border align="inner" to="none" id="32"/>
+		<optional id="24"/>
+</brush>
+
+<brush name="stony mountain (fill)" type="ground" server_lookid="2109" z-order="9900">
+		<item id="2109" chance="1"/>
+		<border align="outer" id="25"/>
+		<border align="outer" to="none" id="25"/>
+		<border align="inner" id="33"/>
+		<border align="inner" to="none" id="33"/>
+		<friend name="ice mountain (fill)"/>
+		<optional id="25"/>
+</brush>
+
+<!-- Pavements -->
+
+  <brush name="cobblestone pavement" type="ground" server_lookid="1375" z-order="3500">
+    <item id="1375" chance="250"/>
+    <border align="outer" id="31"/>
+    <border align="outer" to="none" id="31"/>
+  </brush>
+
+  <brush name="blueish cobblestone pavement" type="ground" server_lookid="1401" z-order="3500">
+    <item id="1401" chance="250"/>
+    <border align="outer" id="36"/>
+    <border align="outer" to="none" id="36"/>
+  </brush>
+
+  <brush name="flat red rooftop" type="ground" server_lookid="1364" z-order="3500">
+    <item id="1364" chance="250"/>
+    <border align="outer" id="34"/>
+    <border align="outer" to="none" id="34"/>
+  </brush>
+
+  <brush name="oak planks" type="ground" server_lookid="1384" z-order="3500">
+    <item id="1384" chance="250"/>
+    <border align="outer" id="35"/>
+    <border align="outer" to="none" id="35"/>
+  </brush>
+
+<!-- Natural -->
+
+  <brush name="sand" type="ground" server_lookid="1453" z-order="3500">
+		<item id="1453" chance="25"/>
+		<item id="1454" chance="25"/>
+		<item id="1455" chance="25"/>
+		<item id="1456" chance="25"/>
+		<item id="1457" chance="25"/>
+    <border align="outer" id="37"/>
+    <border align="outer" to="none" id="37"/>
+	</brush>
+
+<!-- Other -->
+
+<brush name="ice" type="ground" server_lookid="1990" z-order="3500">
+		<item id="1990" chance="1"/>
+		<border align="outer" id="22"/>
+		<border align="outer" to="none" id="22"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+</brush>
+
+<brush name="stone soil" type="ground" server_lookid="2096" z-order="3500">
+		<item id="2096" chance="1"/>
+		<border align="outer" id="26"/>
+		<border align="outer" to="none" id="26"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="ice" id="22"/>
+</brush>
+
+<brush name="black mountain" type="ground" server_lookid="2469" z-order="3500">
+		<item id="2469" chance="1"/>
+</brush>
+
+<brush name="black mountain soil" type="ground" server_lookid="2468" z-order="3500">
+		<item id="2468" chance="1"/>
+		<border align="outer" id="28"/>
+		<border align="inner" to="black mountain" id="30"/>
+</brush>
+
+<brush name="black mountain soil deeper" type="ground" server_lookid="2597" z-order="3500">
+		<item id="2597" chance="1"/>
+		<border align="outer" id="28"/>
+		<border align="inner" to="black mountain" id="30"/>
+</brush>
+
+<brush name="snowy mountain" type="ground" server_lookid="2455" z-order="3500">
+		<item id="2455" chance="1"/>
+		<border align="outer" id="27"/>
+</brush>
+
+
+<!-- Waters -->
+
+<brush name="water (white border) (old)" type="ground" server_lookid="1462" z-order="3500">
+		<item id="1462" chance="1"/>
+		<border align="outer" to="none" id="19"/>
+		<border align="inner" to="ice" id="22"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="stone soil" id="26"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+		<border align="inner" to="black mountain soil" id="28"/>
+</brush>
+
+<brush name="water transparent (white border) (old)" type="ground" server_lookid="1475" z-order="3500">
+		<item id="1475" chance="1"/>
+		<border align="outer" to="none" id="38"/>
+		<border align="inner" to="ice" id="22"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="stone soil" id="26"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+		<border align="inner" to="black mountain soil" id="28"/>
+</brush>
+
+<brush name="water (brown border) (old)" type="ground" server_lookid="1419" z-order="3500">
+		<item id="1419" chance="1"/>
+		<border align="outer" to="none" id="39"/>
+		<border align="inner" to="ice" id="22"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="stone soil" id="26"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+		<border align="inner" to="black mountain soil" id="28"/>
+</brush>
+
+<brush name="water transparent (brown border) (old)" type="ground" server_lookid="1437" z-order="3500">
+		<item id="1437" chance="1"/>
+		<border align="outer" to="none" id="40"/>
+		<border align="inner" to="ice" id="22"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="stone soil" id="26"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+		<border align="inner" to="black mountain soil" id="28"/>
+</brush>
+
+<brush name="water" type="carpet" server_lookid="3038">
+		<carpet align="n"      id="3035"/>
+		<carpet align="e"      id="3031"/>
+		<carpet align="s"      id="3027"/>
+		<carpet align="w"      id="3032"/>
+		<carpet align="center" id="3038"/>
+
+		<carpet align="dnw"    id="3034"/>
+		<carpet align="dne"    id="3033"/>
+		<carpet align="dse"    id="3029"/>
+		<carpet align="dsw"    id="3030"/>
+
+		<carpet align="cnw"    id="3037"/>
+		<carpet align="cne"    id="3036"/>
+		<carpet align="cse"    id="3026"/>
+		<carpet align="csw"    id="3028"/>
+</brush>
+
+
+<brush name="plains grass" type="ground" server_lookid="1632" z-order="3500">
+		<item id="1632" chance="400"/>
+		<item id="1636" chance="400"/>
+		<item id="1619" chance="10"/>
+		<item id="1620" chance="10"/>
+		<item id="1625" chance="10"/>
+		<item id="1626" chance="10"/>
+		<item id="1617" chance="10"/>
+		<item id="1618" chance="10"/>
+		<item id="1621" chance="1"/>
+		<item id="1622" chance="1"/>
+		<item id="1623" chance="10"/>
+		<item id="1624" chance="10"/>
+		<item id="1627" chance="10"/>
+		<item id="1628" chance="10"/>
+		<item id="1629" chance="10"/>
+		<item id="1630" chance="10"/>
+		<item id="1631" chance="100"/>
+		<item id="1633" chance="10"/>
+		<item id="1634" chance="10"/>
+		<item id="1635" chance="10"/>
+		<border align="outer" id="21"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+	</brush>
+<brush name="dirt" type="ground" server_lookid="1532" z-order="3500">
+		<item id="1532" chance="2500"/>
+		<item id="1533" chance="2500"/>
+		<item id="1534" chance="2500"/>
+		<item id="1535" chance="2500"/>
+		<item id="1536" chance="2500"/>
+
+		<border align="outer" id="23"/>
+		<border align="outer" to="none" id="23"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="plains grass" id="21"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+</brush>
+<brush name="snowy cobbled street" type="ground" server_lookid="743" z-order="3500">
+		<item id="743" chance="250"/>
+		<item id="746" chance="250"/>
+		<item id="747" chance="250"/>
+		<item id="748" chance="250"/>
+		<item id="752" chance="250"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+    <border align="outer" id="10"/>
+    <border align="outer" to="none" id="10"/>
+	</brush>
+<brush name="dark forest grass" type="ground" server_lookid="1583" z-order="3500">
+		<item id="1583" chance="200"/>
+		<item id="1584" chance="200"/>
+		<item id="1589" chance="200"/>
+		<item id="1590" chance="200"/>
+		<item id="1577" chance="10"/>
+		<item id="1578" chance="10"/>
+		<item id="1569" chance="10"/>
+		<item id="1570" chance="10"/>
+		<item id="1571" chance="10"/>
+		<item id="1572" chance="10"/>
+		<item id="1573" chance="1"/>
+		<item id="1574" chance="1"/>
+		<item id="1575" chance="10"/>
+		<item id="1576" chance="10"/>
+		<item id="1579" chance="1"/>
+		<item id="1580" chance="1"/>
+		<item id="1581" chance="1"/>
+		<item id="1582" chance="1"/>
+		<item id="1585" chance="10"/>
+		<item id="1586" chance="10"/>
+		<item id="1587" chance="1"/>
+		<item id="1588" chance="1"/>
+		<item id="1591" chance="10"/>
+		<item id="1592" chance="10"/>
+		<border align="outer" id="20"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="plains grass" id="21"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+	</brush>
+<brush name="snow" type="ground" server_lookid="684" z-order="3500">
+		<item id="677" chance="80"/>
+		<item id="690" chance="80"/>
+		<item id="684" chance="40"/>
+		<item id="686" chance="40"/>
+		<item id="683" chance="6"/>
+		<item id="685" chance="16"/>
+		<item id="687" chance="12"/>
+		<item id="688" chance="8"/>
+		<item id="689" chance="3"/>
+		<item id="691" chance="2"/>
+
+		<border align="outer" id="1"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="snowy cobbled street" id="10"/>
+		<border align="inner" to="dark forest grass" id="20"/>
+		<border align="inner" to="ice" id="22"/>
+		<border align="inner" to="stony mountain (fill)" id="25"/>
+		<border align="inner" to="stone soil" id="26"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+</brush>
+<brush name="dirt" type="ground" server_lookid="1532" z-order="3500">
+		<item id="1532" chance="2500"/>
+		<item id="1533" chance="2500"/>
+		<item id="1534" chance="2500"/>
+		<item id="1535" chance="2500"/>
+		<item id="1536" chance="2500"/>
+
+		<border align="outer" id="23"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="plains grass" id="21"/>
+		<border align="inner" to="snow" id="6"/>
+		<border align="inner" to="dark forest grass" id="20"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+</brush>
+
+<brush name="wodden floor" type="ground" server_lookid="698" z-order="3500">
+		<item id="697" chance="50"/>
+		<item id="698" chance="250"/>
+		<item id="699" chance="250"/>
+		<item id="700" chance="250"/>
+		<item id="701" chance="250"/>
+		<item id="702" chance="250"/>
+		<item id="703" chance="50"/>
+		<item id="708" chance="50"/>
+		<item id="709" chance="50"/>
+		<border align="inner" to="ice mountain (fill)" id="24"/>
+		<border align="inner" to="water (white border) (old)" id="19"/>
+		<border align="inner" to="snowy mountain" id="27"/>
+	</brush>
+  <brush name="frozen ground" type="ground" server_lookid="718" z-order="3500">
+      <item id="718" chance="250"/>
+      <item id="719" chance="250"/>
+      <item id="720" chance="250"/>
+      <border align="outer" id="8"/>
+      <border align="outer" to="none" id="8"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+  </brush>
+  <brush name="black stone tile" type="ground" server_lookid="760" z-order="3500">
+      <item id="760" chance="250"/>
+      <item id="769" chance="20"/>
+      <item id="770" chance="20"/>
+      <item id="771" chance="20"/>
+      <item id="772" chance="20"/>
+      <item id="773" chance="20"/>
+      <item id="774" chance="20"/>
+      <item id="775" chance="20"/>
+      <item id="776" chance="20"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+      <border align="outer" id="11"/>
+      <border align="outer" to="none" id="11"/>
+    </brush>
+    <brush name="igneous rock soil" type="ground" server_lookid="781" z-order="3500">
+      <item id="781" chance="250"/>
+      <item id="784" chance="250"/>
+      <item id="785" chance="250"/>
+      <item id="786" chance="50"/>
+      <item id="789" chance="250"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="dark forest grass" id="20"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+		  <border align="inner" to="stony mountain (fill)" id="25"/>
+      <border align="outer" id="12"/>
+      <border align="outer" to="none" id="12"/>
+    </brush>
+    <brush name="icy mountain" type="ground" server_lookid="1184" z-order="3500">
+      <item id="1184" chance="250"/>
+      <item id="1185" chance="250"/>
+      <item id="1186" chance="250"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snow" id="6"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+    </brush>
+    <brush name="mountain" type="ground" server_lookid="1192" z-order="3500">
+      <item id="1187" chance="250"/>
+      <item id="1188" chance="250"/>
+      <item id="1192" chance="250"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+		  <border align="inner" to="stony mountain (fill)" id="25"/>
+    </brush>
+    <brush name="dry sand" type="ground" server_lookid="1800" z-order="3500">
+      <item id="1800" chance="250"/>
+      <item id="1801" chance="250"/>
+      <item id="1808" chance="250"/>
+      <item id="1809" chance="250"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+    </brush>
+    <brush name="sand cobblestone pavement" type="ground" server_lookid="1816" z-order="3500">
+      <item id="1816" chance="250"/>
+      <item id="1817" chance="250"/>
+      <item id="1818" chance="250"/>
+      <item id="1825" chance="250"/>
+      <border align="inner" to="ice mountain (fill)" id="24"/>
+      <border align="inner" to="water (white border) (old)" id="19"/>
+      <border align="inner" to="snowy mountain" id="27"/>
+    </brush>
+    <brush name="Oriental Red Carpet" type="carpet" server_lookid="419">
+        <carpet align="n"      id="422"/>
+        <carpet align="e"      id="418"/>
+        <carpet align="s"      id="416"/>
+        <carpet align="w"      id="420"/>
+        <carpet align="center" id="419"/>
+
+        <carpet align="cnw"    id="423"/>
+        <carpet align="cne"    id="421"/>
+        <carpet align="cse"    id="415"/>
+        <carpet align="csw"    id="417"/>
+    </brush>
+
+    <brush name="icy ground" type="ground" server_lookid="664" z-order="3500">
+        <item id="664" chance="70"/>
+        <border align="outer" id="5"/>
+        <border align="outer" to="snow" id="5"/>
+    </brush>
+</materials>

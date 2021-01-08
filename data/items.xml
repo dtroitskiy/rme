@@ -536,8 +536,8 @@
 	<item id="276" name="wall" article="a">
 		<attribute key="description" value="wooden pole" />
 	</item>
-	<item id="277" name="fence" article="a">
-		<attribute key="description" value="cyclone fence" />
+	<item id="277" name="wooden post" article="a">
+		<attribute key="description" value="wooden post" />
 	</item>
 	<item id="278" name="lightsource" article="an">
 		<attribute key="description" value="oil lamp" />
@@ -773,44 +773,54 @@
 	<item id="361" name="snowy bush" article="a">
 		<attribute key="description" value="small snowy bush" />
 	</item>
-	<item id="362" name="snowy tree" article="a">
-		<attribute key="description" value="snowy hazel" />
+	<item id="362" name="snowy dead bush" article="a">
+		<attribute key="description" value="snowy dead bush" />
 	</item>
 	<item id="363" name="snowy stub" article="a">
 		<attribute key="description" value="frozen stub of a tree" />
 	</item>
-	<item id="364" name="snowy maple tree" article="a">
-		<attribute key="description" value="frozen maple tree" />
+	<item id="364" name="snowy hawthorn" article="a">
+		<attribute key="description" value="snowy hawthorn" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="365" name="snowy hawthorn" article="a">
 		<attribute key="description" value="frozen hawthorn" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="367" name="snowy robina" article="a">
 		<attribute key="description" value="frozen robina" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="368" name="snowy ash" article="a">
 		<attribute key="description" value="frozen ash" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="369" name="snowy ash" article="a">
 		<attribute key="description" value="frozen ash" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="370" name="snowy bush" article="a">
 		<attribute key="description" value="snowy large dead bush" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="372" name="tree hawthorn" article="a">
 		<attribute key="description" value="hawthorn" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="374" name="tree ash" article="an">
 		<attribute key="description" value="ash" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="375" name="tree robina" article="a">
 		<attribute key="description" value="robina" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="376" name="barrel" article="a">
 		<attribute key="description" value="barrel seat" />
 	</item>
 	<item id="377" name="breadbasket" article="a">
 		<attribute key="description" value="breadbasket" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="378" name="breadbasket" article="a">
 		<attribute key="description" value="breadbasket" />
@@ -826,6 +836,7 @@
 	</item>
 	<item id="382" name="breadbasket" article="a">
 		<attribute key="description" value="breadbasket" />
+		<attribute key="blockprojectile" value="1" />
 	</item>
 	<item id="383" name="breadbasket" article="a">
 		<attribute key="description" value="breadbasket" />
@@ -1471,29 +1482,29 @@
 	<item id="592" name="snow" article="">
 		<attribute key="description" value="snow" />
 	</item>
-	<item id="593" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="593" name="rotting willow" article="a">
+		<attribute key="description" value="rotting willow" />
 	</item>
-	<item id="594" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="594" name="mossy dead tree" article="a">
+		<attribute key="description" value="mossy dead tree" />
 	</item>
-	<item id="595" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="595" name="mossy log" article="a">
+		<attribute key="description" value="mossy log" />
 	</item>
-	<item id="596" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="596" name="giant dead tree" article="a">
+		<attribute key="description" value="giant dead tree" />
 	</item>
-	<item id="597" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="597" name="giant dead tree" article="a">
+		<attribute key="description" value="giant dead tree" />
 	</item>
-	<item id="598" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="598" name="giant dead tree" article="a">
+		<attribute key="description" value="giant dead tree" />
 	</item>
-	<item id="599" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="599" name="giant dead tree" article="a">
+		<attribute key="description" value="giant dead tree" />
 	</item>
-	<item id="600" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="600" name="dead tree" article="a">
+		<attribute key="description" value="dead tree" />
 	</item>
 	<item id="601" name="sand" article="a">
 		<attribute key="description" value="desert sand" />
@@ -1501,59 +1512,59 @@
 	<item id="602" name="sand" article="a">
 		<attribute key="description" value="desert sand" />
 	</item>
-	<item id="603" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="603" name="mossy bush" article="a">
+		<attribute key="description" value="mossy bush" />
 	</item>
-	<item id="604" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="604" name="giant swamp oak" article="a">
+		<attribute key="description" value="giant swamp oak" />
 	</item>
-	<item id="605" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="605" name="mossy willow" article="a">
+		<attribute key="description" value="mossy willow" />
 	</item>
-	<item id="606" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="606" name="mossy bush" article="a">
+		<attribute key="description" value="mossy bush" />
 	</item>
-	<item id="607" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="607" name="grim shademaster" article="a">
+		<attribute key="description" value="grim shademaster" />
 	</item>
-	<item id="608" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="608" name="moss widow" article="a">
+		<attribute key="description" value="moss widow" />
 	</item>
-	<item id="609" name="sand" article="a">
-		<attribute key="description" value="desert sand" />
+	<item id="609" name="gloom birch" article="a">
+		<attribute key="description" value="gloom birch" />
 	</item>
-	<item id="610" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="610" name="mossy oak" article="">
+		<attribute key="description" value="mossy oak" />
 	</item>
-	<item id="611" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="611" name="withering overgrowth" article="">
+		<attribute key="description" value="withering overgrowth" />
 	</item>
-	<item id="612" name="sand" article="">
-		<attribute key="description" value="desert sand" />
+	<item id="612" name="withering overgrowth" article="">
+		<attribute key="description" value="withering overgrowth" />
 	</item>
-	<item id="613" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="613" name="withering overgrowth" article="">
+		<attribute key="description" value="withering overgrowth" />
 	</item>
-	<item id="614" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="614" name="withering overgrowth" article="">
+		<attribute key="description" value="withering overgrowth" />
 	</item>
-	<item id="615" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="615" name="flowered overgrowth" article="a">
+		<attribute key="description" value="flowered overgrowth" />
 	</item>
-	<item id="616" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="616" name="overgrowth" article="">
+		<attribute key="description" value="overgrowth" />
 	</item>
-	<item id="617" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="617" name="overgrowth" article="">
+		<attribute key="description" value="overgrowth" />
 	</item>
-	<item id="618" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="618" name="overgrowth" article="">
+		<attribute key="description" value="overgrowth" />
 	</item>
-	<item id="619" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="619" name="overgrowth" article="">
+		<attribute key="description" value="overgrowth" />
 	</item>
-	<item id="620" name="sand" article="">
-		<attribute key="description" value="sand" />
+	<item id="620" name="dead bush" article="a">
+		<attribute key="description" value="dead bush" />
 	</item>
 	<item id="621" name="sand" article="">
 		<attribute key="description" value="sand" />
@@ -2440,8 +2451,8 @@
 	<item id="916" name="snowy red buckeye" article="a">
 		<attribute key="description" value="frozen red buckeye" />
 	</item>
-	<item id="917" name="snowy chestnut" article="a">
-		<attribute key="description" value="snowy chestnut" />
+	<item id="917" name="snowy pine" article="a">
+		<attribute key="description" value="snowy pine" />
 	</item>
 	<item id="918" name="snowy spruce" article="a">
 		<attribute key="description" value="snowy spruce" />
@@ -2615,113 +2626,82 @@
 	<item id="971" name="stone soil" article="a">
 		<attribute key="description" value="stone soil" />
 	</item>
-	<item id="972" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="972" name="snowy stone" article="a">
+		<attribute key="description" value="snowy stone" />
 	</item>
-	<item id="973" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="973" name="snowy stone" article="a">
+		<attribute key="description" value="snowy stone" />
 	</item>
-	<item id="974" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="974" name="snow covered stone pile" article="a">
+		<attribute key="description" value="snow covered stone pile" />
 	</item>
-	<item id="975" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="975" name="training dummy post" article="a">
+		<attribute key="description" value="training dummy post" />
 	</item>
-	<item id="976" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="976" name="training dummy post" article="a">
+		<attribute key="description" value="training dummy post" />
 	</item>
-	<item id="977" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="977" name="training dummy post" article="a">
+		<attribute key="description" value="training dummy post" />
 	</item>
-	<item id="978" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="978" name="training dummy" article="a">
+		<attribute key="description" value="training dummy" />
 	</item>
-	<item id="979" name="snowy stone soil" article="a">
-		<attribute key="description" value="snowy stone soil" />
+	<item id="979" name="training dummy" article="a">
+		<attribute key="description" value="training dummy" />
 	</item>
-	<item id="980" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="980" name="mossy stone" article="a">
+		<attribute key="description" value="mossy stone" />
+	</item>
+	<item id="981" name="mossy stone" article="a">
+		<attribute key="description" value="mossy stone" />
+	</item>
+	<item id="982" name="mossy stone" article="a">
+		<attribute key="description" value="mossy stone" />
+	</item>
+	<item id="983" name="gigantic browncap" article="a">
+		<attribute key="description" value="gigantic browncap" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="981" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="984" name="gigantic browncap" article="a">
+		<attribute key="description" value="gigantic browncap" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="982" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="985" name="toxic portabella mushroom" article="a">
+		<attribute key="description" value="toxic portabella mushroom" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="983" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="986" name="large portabella mushroom" article="a">
+		<attribute key="description" value="large portabella mushroom" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="984" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="987" name="toxic morel" article="a">
+		<attribute key="description" value="toxic morel" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="985" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="988" name="giant brown morel" article="a">
+		<attribute key="description" value="giant brown morel" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="986" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="989" name="large red cap mushroom" article="a">
+		<attribute key="description" value="large red cap mushroom" />
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="987" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
+	<item id="990" name="red cap mushroom" article="a">
+		<attribute key="description" value="red cap mushroom" />
+	</item>
+	<item id="991" name="mushroom" article="a" />
+	<item id="992" name="green mushroom" article="a" />
+	<item id="993" name="mushroom" article="a" />
+	<item id="994" name="mushroom" article="a" />
+	<item id="995" name="green mushroom" article="a">
 		<attribute key="blockprojectile" value="1" />
 	</item>
-	<item id="988" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="989" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="990" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="991" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="992" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="993" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="994" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="995" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="996" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="997" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="998" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="999" name="snowy rock" article="a">
-		<attribute key="description" value="snowy rock" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="1000" name="hand animation" article="a">
-		<attribute key="description" value="magical hand" />
-	</item>
+	<item id="996" name="mushroom cluster" article="a" />
+	<item id="997" name="brown mushroom" article="a" />
+	<item id="998" name="mushroom cluster" article="a" />
+	<item id="999" name="mushroom cluster" article="a" />
+	<item id="1000" name="green mushroom" article="a" />
 	<item id="1001" name="boiling pot" article="a">
 		<attribute key="description" value="boiling pot" />
 	</item>
@@ -3700,6 +3680,7 @@
 		<attribute key="description" value="stone stairs" />
 		<attribute key="floorchange" value="north" />
 	</item>
+	<item id="1414" name="" article="a" />
 	<item id="1415" name="ocean water" article="">
 		<attribute key="description" value="ocean water" />
 	</item>
@@ -4418,4 +4399,121 @@
 	<item id="2803" name="" article="a" />
 	<item id="3098" name="" article="a" />
 	<item id="3099" name="" article="a" />
+	<item id="3360" name="" article="a">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="3361" name="" article="a">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="3371" name="snow mountain fill" article="">
+		<attribute key="description" value="snow mountain fill" />
+	</item>
+	<item id="3372" name="magma" article="a">
+		<attribute key="description" value="magma" />
+	</item>
+	<item id="3373" name="lava" article="a">
+		<attribute key="description" value="lava" />
+	</item>
+	<item id="3374" name="lava" article="a">
+		<attribute key="description" value="lava" />
+	</item>
+	<item id="3375" name="lava" article="a">
+		<attribute key="description" value="lava" />
+	</item>
+	<item id="3396" name="magma" article="a">
+		<attribute key="description" value="magma" />
+	</item>
+	<item id="3405" name="calcified dirt" article="a" />
+	<item id="3594" name="" article="a" />
+	<item id="3595" name="" article="a" />
+	<item id="3648" name="cobblestone pavement" article="">
+		<attribute key="description" value="cobblestone pavement" />
+	</item>
+	<item id="3649" name="cobblestone pavement" article="">
+		<attribute key="description" value="cobblestone pavement" />
+	</item>
+	<item id="3650" name="cobblestone pavement" article="">
+		<attribute key="description" value="cobblestone pavement" />
+	</item>
+	<item id="3652" name="" article="a" />
+	<item id="3653" name="" article="a" />
+	<item id="3654" name="" article="a" />
+	<item id="3670" name="swamp" article="" />
+	<item id="3683" name="mud" article="" />
+	<item id="3695" name="quagmire" article="" />
+	<item id="3770" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3771" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3772" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3773" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3774" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3775" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3776" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3777" name="mud" article="">
+		<attribute key="description" value="mud" />
+	</item>
+	<item id="3778" name="snowy dead bush" article="a">
+		<attribute key="description" value="snowy dead bush" />
+	</item>
+	<item id="3779" name="snowy stub" article="a">
+		<attribute key="description" value="frozen stub of a tree" />
+	</item>
+	<item id="3780" name="snowy hawthorn" article="a">
+		<attribute key="description" value="snowy hawthorn" />
+	</item>
+	<item id="3781" name="snowy hawthorn" article="a">
+		<attribute key="description" value="frozen hawthorn" />
+	</item>
+	<item id="3782" name="snowy robina" article="a">
+		<attribute key="description" value="frozen robina" />
+	</item>
+	<item id="3783" name="snowy ash" article="a">
+		<attribute key="description" value="frozen ash" />
+	</item>
+	<item id="3784" name="snowy ash" article="a">
+		<attribute key="description" value="frozen ash" />
+	</item>
+	<item id="3785" name="snowy bush" article="a">
+		<attribute key="description" value="snowy large dead bush" />
+	</item>
+	<item id="3786" name="tree hawthorn" article="a">
+		<attribute key="description" value="hawthorn" />
+	</item>
+	<item id="3788" name="tree ash" article="an">
+		<attribute key="description" value="ash" />
+	</item>
+	<item id="3789" name="tree robina" article="a">
+		<attribute key="description" value="robina" />
+	</item>
+	<item id="3790" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
+	<item id="3791" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
+	<item id="3792" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
+	<item id="3793" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
+	<item id="3794" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
+	<item id="3795" name="breadbasket" article="a">
+		<attribute key="description" value="breadbasket" />
+	</item>
 </items>

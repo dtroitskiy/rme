@@ -1,0 +1,331 @@
+<materials>
+
+    <brush name="Garden Bushwall" type="wall" server_lookid="2157">
+        <wall type="horizontal">
+            <item id="2157" chance="1"/>
+        </wall>
+        <wall type="vertical">
+            <item id="2158" chance="1"/>
+        </wall>
+        <wall type="corner">
+            <item id="2154" chance="1"/>
+        </wall>
+        <wall type="pole">
+            <item id="2155" chance="1"/>
+        </wall>
+    </brush>
+
+	<brush name="Brick Wall" type="wall" server_lookid="406">
+		<wall type="horizontal">
+			<item id="406" chance="500"/>
+		</wall>
+		<wall type="vertical">
+			<item id="405" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="407" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="408" chance="1000"/>
+		</wall>
+	</brush>
+
+	<brush name="Polished Wall" type="wall" server_lookid="504">
+		<wall type="horizontal">
+			<item id="504" chance="500"/>
+		</wall>
+		<wall type="vertical">
+			<item id="503" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="505" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="506" chance="1000"/>
+		</wall>
+	</brush>
+
+	<brush name="Vertical Wood Wall" type="wall" server_lookid="552">
+		<wall type="horizontal">
+			<item id="552" chance="500"/>
+			<door id="562" type="normal" open="false"/>
+			<door id="559" type="normal" open="true"/>
+			<door id="558" type="locked" open="false"/>
+			<door id="555" type="locked" open="true"/>
+			<door id="557" type="hatch_window" open="false"/>
+			<door id="561" type="hatch_window" open="true"/>
+			<door id="556" type="window"/>
+		</wall>
+		<wall type="vertical">
+			<item id="551" chance="400"/>
+			<door id="570" type="normal" open="false"/>
+			<door id="567" type="normal" open="true"/>
+			<door id="566" type="locked" open="false"/>
+			<door id="563" type="locked" open="true"/>
+			<door id="565" type="hatch_window" open="false"/>
+			<door id="569" type="hatch_window" open="true"/>
+			<door id="564" type="window"/>
+		</wall>
+		<wall type="corner">
+			<item id="553" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="554" chance="1000"/>
+		</wall>
+	</brush>
+
+	<brush name="Stacked Wood Wall" type="wall" server_lookid="243">
+		<wall type="horizontal">
+			<item id="243" chance="500"/>
+			<door id="234" type="normal" open="false"/>
+			<door id="235" type="normal" open="true"/>
+			<door id="234" type="locked" open="false"/>
+			<door id="235" type="locked" open="true"/>
+			<door id="240" type="hatch_window" open="false"/>
+			<door id="239" type="hatch_window" open="true"/>
+			<door id="239" type="window"/>
+		</wall>
+		<wall type="vertical">
+			<item id="241" chance="400"/>
+			<door id="236" type="normal" open="false"/>
+			<door id="233" type="normal" open="true"/>
+			<door id="236" type="locked" open="false"/>
+			<door id="233" type="locked" open="true"/>
+			<door id="238" type="hatch_window" open="false"/>
+			<door id="237" type="hatch_window" open="true"/>
+			<door id="237" type="window"/>
+		</wall>
+		<wall type="corner">
+			<item id="242" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="244" chance="1000"/>
+		</wall>
+	</brush>
+
+	<brush name="Stacked Wood Archway" type="wall" server_lookid="231">
+        <alternate>
+			<item id="231" chance="1000"/>
+        </alternate>
+        <alternate>
+			<item id="232" chance="1000"/>
+        </alternate>
+	</brush>
+
+	<brush name="Stone Brick Padded Walls" type="wall" server_lookid="1348">
+		<wall type="horizontal">
+			<item id="1327" chance="500"/>
+			<door id="1325" type="normal" open="false"/>
+			<door id="1329" type="normal" open="true"/>
+			<door id="1325" type="locked" open="false"/>
+			<door id="1329" type="locked" open="true"/>
+			<door id="1326" type="hatch_window" open="false"/>
+			<door id="1326" type="hatch_window" open="true"/>
+			<door id="1326" type="window"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1347" chance="400"/>
+			<door id="1330" type="normal" open="false"/>
+			<door id="1331" type="normal" open="true"/>
+			<door id="1330" type="locked" open="false"/>
+			<door id="1331" type="locked" open="true"/>
+			<door id="1344" type="hatch_window" open="false"/>
+			<door id="1344" type="hatch_window" open="true"/>
+			<door id="1344" type="window"/>
+		</wall>
+		<wall type="corner">
+			<item id="1348" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1328" chance="1000"/>
+		</wall>
+	</brush>
+    
+	<brush name="Old Stone Wall" type="wall" server_lookid="1342">
+		<wall type="horizontal">
+			<item id="1341" chance="500"/>
+			<door id="1332" type="normal" open="false"/>
+			<door id="1333" type="normal" open="true"/>
+			<door id="1332" type="locked" open="false"/>
+			<door id="1333" type="locked" open="true"/>
+			<door id="1336" type="hatch_window" open="false"/>
+			<door id="1336" type="hatch_window" open="true"/>
+			<door id="1336" type="window"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1340" chance="400"/>
+			<door id="1338" type="normal" open="false"/>
+			<door id="1343" type="normal" open="true"/>
+			<door id="1338" type="locked" open="false"/>
+			<door id="1343" type="locked" open="true"/>
+			<door id="1339" type="hatch_window" open="false"/>
+			<door id="1339" type="hatch_window" open="true"/>
+			<door id="1339" type="window"/>
+		</wall>
+		<wall type="corner">
+			<item id="1342" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1337" chance="1000"/>
+		</wall>
+	</brush>
+	<brush name="Castle Gate" type="wall" server_lookid="1496">
+        <composite chance="10">
+            <tile x="0" y="0"> <item id="1496"/> </tile>
+            <tile x="1" y="0"> <item id="1495"/> </tile>
+        </composite>
+	</brush>
+	<brush name="Castle Gate (Open)" type="wall" server_lookid="1497">
+        <composite chance="10">
+            <tile x="0" y="0"> <item id="1497"/> </tile>
+            <tile x="1" y="0"> <item id="1498"/> </tile>
+        </composite>
+	</brush>
+    
+	<brush name="Royal Brick Wall" type="wall" server_lookid="1928">
+		<wall type="horizontal">
+			<item id="1924" chance="10"/>
+			<item id="1908" chance="10"/>
+			<item id="1909" chance="10"/>
+			<item id="1910" chance="10"/>
+
+			<door id="1857" type="normal" open="false"/>
+			<door id="1857" type="normal" open="true"/>
+			<door id="1856" type="locked" open="false"/>
+			<door id="1856" type="locked" open="true"/>
+
+			<door id="1855" type="hatch_window" open="false"/>
+			<door id="1851" type="hatch_window" open="true"/>
+			<door id="1852" type="window"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1925" chance="400"/>
+			<item id="1911" chance="400"/>
+			<item id="1912" chance="400"/>
+			<item id="1913" chance="400"/>
+
+			<door id="1864" type="normal" open="false"/>
+			<door id="1864" type="normal" open="true"/>
+			<door id="1863" type="locked" open="false"/>
+			<door id="1863" type="locked" open="true"/>
+
+			<door id="1862" type="hatch_window" open="false"/>
+			<door id="1858" type="hatch_window" open="true"/>
+			<door id="1859" type="window"/>
+		</wall>
+		<wall type="corner">
+			<item id="1928" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1926" chance="1000"/>
+		</wall>
+	</brush>
+    
+	<brush name="Vined Royal Brick Wall" type="wall" server_lookid="1944">
+		<wall type="horizontal">
+			<item id="1940" chance="10"/>
+			<item id="1941" chance="10"/>
+			<item id="1942" chance="10"/>
+			<item id="1943" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1951" chance="400"/>
+			<item id="1947" chance="400"/>
+			<item id="1948" chance="400"/>
+			<item id="1949" chance="400"/>
+			<item id="1950" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1944" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1952" chance="1000"/>
+		</wall>
+	</brush>
+	<brush name="Darker Royal Brick Wall" type="wall" server_lookid="1919">
+		<wall type="horizontal">
+			<item id="1916" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1917" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1919" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1918" chance="1000"/>
+		</wall>
+	</brush>
+	<brush name="Ornamental Royal Brick Wall" type="wall" server_lookid="1936">
+		<wall type="horizontal">
+			<item id="1932" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1933" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1936" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1935" chance="1000"/>
+		</wall>
+	</brush>
+	<brush name="Royal Brick Wall Railing" type="wall" server_lookid="1894">
+		<wall type="horizontal">
+			<item id="1891" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1892" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1894" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1893" chance="1000"/>
+		</wall>
+	</brush>
+	<brush name="Royal Brick Wall Top Railing" type="wall" server_lookid="1906">
+		<wall type="horizontal">
+			<item id="1903" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1904" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1906" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1905" chance="1000"/>
+		</wall>
+	</brush>
+
+	<brush name="Old Stone Wall 2" type="wall" server_lookid="1488">
+		<wall type="horizontal">
+			<item id="1486" chance="500"/>
+		</wall>
+		<wall type="vertical">
+			<item id="1493" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="1488" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="1487" chance="1000"/>
+		</wall>
+	</brush>
+    
+	<brush name="Spiky Wood Railing" type="wall" server_lookid="2342">
+		<wall type="horizontal">
+			<item id="2340" chance="500"/>
+		</wall>
+		<wall type="vertical">
+			<item id="2339" chance="400"/>
+		</wall>
+		<wall type="corner">
+			<item id="2342" chance="1000"/>
+		</wall>
+		<wall type="pole">
+			<item id="2341" chance="1000"/>
+		</wall>
+	</brush>
+</materials>

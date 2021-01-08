@@ -1,0 +1,137 @@
+<materials>
+
+	<tileset name="Nature">
+		<terrain>
+            <!-- Grasses -->
+			<brush name="plains grass"/>
+			<brush name="dark forest grass"/>
+			<brush name="sand"/>
+
+            <!-- Other -->
+			<brush name="dirt"/>
+			<brush name="dry sand"/>
+		</terrain>
+	</tileset>
+
+	<tileset name="Snow">
+		<terrain>
+			<brush name="snow"/>
+			<brush name="snowy cobbled street"/>
+			<brush name="frozen ground"/>
+			<brush name="icy mountain"/>
+			<brush name="ice"/>
+			<brush name="icy ground"/>
+		</terrain>
+	</tileset>
+
+	<tileset name="Stone">
+		<terrain>
+			<brush name="stone soil"/>
+			<brush name="black mountain soil deeper"/>
+			<brush name="igneous rock soil"/>
+			<brush name="mountain"/>
+		</terrain>
+	</tileset>
+
+	<tileset name="Mountains">
+		<terrain>
+      <!-- Stone Mountain 2 -->
+			<brush name="stony mountain (fill)"/>
+      <item fromid="2117" toid="2140"/>
+
+      <!-- Ice Mountain -->
+			<brush name="ice mountain (fill)"/>
+      <item fromid="1999" toid="2025"/>
+
+      <!-- Snow Mountain 2-->
+			<brush name="snowy mountain"/>
+      <item fromid="2437" toid="2449"/>
+      <item fromid="2456" toid="2457"/>
+      <item fromid="2141" toid="2146"/>
+      <item fromid="2189" toid="2190"/>
+      <item fromid="2207" toid="2208"/>
+
+      <!-- Dark Mountain -->
+			<brush name="black mountain"/>
+			<brush name="black mountain soil"/>
+      <item fromid="2502" toid="2515"/>
+      <item id="2540"/>
+      <item fromid="2544" toid="2551"/>
+      <item id="2466"/>
+      <item id="2467"/>
+
+      <!-- Stone Mountain 1-->
+      <item fromid="1114" toid="1125"/>
+
+		</terrain>
+	</tileset>
+
+	<tileset name="Water">
+		<terrain>
+			<brush name="water"/>
+			<brush name="water (white border) (old)"/>
+			<brush name="water transparent (white border) (old)"/>
+			<brush name="water (brown border) (old)"/>
+			<brush name="water transparent (brown border) (old)"/>
+		</terrain>
+	</tileset>
+
+	<tileset name="Manmade">
+		<terrain>
+			<brush name="wodden floor"/>
+			<brush name="black stone tile"/>
+			<brush name="cobblestone pavement"/>
+			<brush name="blueish cobblestone pavement"/>
+			<brush name="sand cobblestone pavement"/>
+			<brush name="oak planks"/>
+		</terrain>
+	</tileset>
+
+	<tileset name="Floor Change (Stairs)">
+		<terrain>
+      <item fromid="393" toid="400"/>
+      <item fromid="467" toid="470"/>
+      <item fromid="547" toid="550"/>
+      <item fromid="954" toid="963"/>
+      <item fromid="1218" toid="1219"/>
+      <item fromid="1412" toid="1413"/>
+      <item fromid="1937" toid="1938"/>
+      <item fromid="923" toid="932"/>
+		</terrain>
+	</tileset>
+
+
+<tileset name="Structures">
+    <terrain>
+      <brush name="Spiky Wood Railing"/>
+      <brush name="Vertical Wood Wall"/>
+      <item id="560"/>
+      <item id="568"/>
+      <brush name="Stacked Wood Wall"/>
+      <brush name="Stacked Wood Archway"/>
+      <brush name="Stacked Wood Gaping Window (Z: Flip)"/>
+      <item id="266"/>
+      <item id="568"/>
+      <brush name="Stone Brick Padded Walls"/>
+      <item id="1324"/>
+      <item id="1345"/>
+      <item id="1346"/>
+      <brush name="Old Stone Wall"/>
+      <item id="1335"/>
+      <item id="1334"/>
+      <brush name="Castle Gate"/>
+      <brush name="Castle Gate (Open)"/>
+      <brush name="Old Stone Wall 2"/>
+      <brush name="Royal Brick Wall"/>
+      <brush name="Vined Royal Brick Wall"/>
+      <brush name="Darker Royal Brick Wall"/>
+      <brush name="Ornamental Royal Brick Wall"/>
+      <brush name="Royal Brick Wall Railing"/>
+      <brush name="Royal Brick Wall Top Railing"/>
+      <brush name="Polished Wall"/>
+      <brush name="Brick Wall"/>
+      <item id="429"/>
+    </terrain>
+</tileset>
+
+</materials>

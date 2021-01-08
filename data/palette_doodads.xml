@@ -1,0 +1,354 @@
+<materials>
+
+<tileset name="Nature">
+    <doodad>
+        <!-- Larger Plants -->
+        <item id="1189"/> <!-- Enormous Tree -->
+        <brush name="Bright Forest Trees [Z: Size]"/>
+        <brush name="Bright Forest Tree Clusters"/>
+        <item id="2284"/>
+        <item id="2268"/>
+        <brush name="Dark Forest Trees [Z: Size]"/>
+        <brush name="Dark Forest Tree Clusters"/>
+        <item id="921"/>
+        <item id="214"/>
+        <brush name="Trees 1"/>
+        <brush name="Trees 2"/>
+        <item id="2269"/>
+        <brush name="Wisteric Blossom"/>
+        <brush name="Sunworn Green Trees [Z: Size]"/>
+        <brush name="Sunworn Dark Trees [Z: Size]"/>
+
+        <!-- Medium Plants -->
+        <brush name="Fallen Tree [Z: Turn]"/>
+        <brush name="Garden Bushwall"/>
+        <brush name="Dead Trees"/>
+        <brush name="Dead Trees 2"/>
+        <brush name="Dead Trees 3"/>
+        <brush name="Dead Bushes"/>
+        <brush name="Bright Forest Bushes"/>
+        <brush name="Dark Forest Bushes"/>
+
+        <!-- Smaller Plants -->
+        <item id="154"/>
+        <brush name="Broken Old Branches"/>
+        <brush name="Broken Brown Branches"/>
+        <brush name="Broken Pale Branches"/>
+        <brush name="Small Attachable Grass"/>
+        <brush name="Brisk Weeds"/>
+        <brush name="Red Blossom"/>
+        <brush name="Morass Fern"/>
+        <brush name="Drying Morass Fern"/>
+        <brush name="Small Morass Ferns (Autumn)"/>
+        <brush name="Small Morass Ferns (Spring)"/>
+        <brush name="Small Morass Ferns (Summer)"/>
+        <brush name="Tiny Outgrowths"/>
+        <brush name="Fern Bushes"/>
+        <brush name="Grass Tufts 1"/>
+        <brush name="Grass Tufts 2"/>
+        <brush name="Watertop Plants"/>
+        <brush name="Clovers"/>
+        <brush name="Crimson Pupps"/>
+        <brush name="Oran and Tulips"/>
+        <brush name="Lillac and Violet"/>
+        <brush name="Nightsprout"/>
+        <brush name="Jasmine"/>
+        <brush name="Moonflower"/>
+        <brush name="Blood Blossoms"/>
+        <brush name="Summer Blossoms"/>
+        <item id="2337"/>
+        <item id="2338"/>
+
+
+        <!-- Stones -->
+        <brush name="Dirt Stones"/>
+        <item id="184"/>
+        <brush name="Grey Pebbles"/>
+        <brush name="Grey Stones [Z: Size]"/>
+        <item id="320"/>
+        <item id="462"/>
+        <item id="221"/>
+        <item id="222"/>
+        <item id="2204"/>
+        <item id="2201"/>
+        <item id="2206"/>
+        <item id="2203"/>
+        <item id="2202"/>
+        <item id="2205"/>
+        <brush name="Grey Plain Stones [Z: Size]"/>
+        <brush name="Bright Plain Stonepiles"/>
+        <brush name="Dark Pebbles [Z: Size]"/>
+        <brush name="Brown Pebbles [Z: Size]"/>
+        <brush name="Dirt Sidestones (Z: Flip)"/>
+        <brush name="Tall Granular Stones"/>
+
+        <!-- Undefined -->
+        <item id="109"/>
+    </doodad>
+</tileset>
+
+<tileset name="Nature (Snowy)">
+    <doodad>
+        <!-- Large Plants -->
+        <item id="1190"/> <!-- Enormous Tree -->
+        <item id="1499"/>
+        <brush name="Snow Covered Evergreen"/>
+        <brush name="Snow Covered Tall Dead Trees"/>
+        <brush name="Snow Covered Trees"/>
+        <item id="1028"/>
+        <item id="1041"/>
+        <item id="1040"/>
+        <brush name="Winter Cherry Blossom"/>
+        <brush name="Bleek White Nature [Z: Size]"/>
+
+        <!-- Medium Plants -->
+        <brush name="White Bushes (Snow)"/>
+        <brush name="Dead Trees (Snow)"/>
+        <brush name="Dead Trees 2 (Snow)"/>
+        <brush name="Dead Trees 3 (Frozen)"/>
+        <brush name="Dead Bushes (Snow)"/>
+        <brush name="Fallen Tree (Winter 1) [Z: Turn]"/>
+        <brush name="Fallen Tree (Winter 2) [Z: Turn]"/>
+        <brush name="Fallen Tree 2 (Winter) [Z: Turn]"/>
+
+        <!-- Smaller Plants -->
+        <item id="157"/>
+        <brush name="Snowy Briar"/>
+        <brush name="Grass Tufts (Frozen)"/>
+        <brush name="Small Ground Flowers (Frozen)"/>
+        <brush name="Blue Mushrooms"/>
+        <item id="172"/>
+        <brush name="Glowing Blue Mushrooms"/>
+        <brush name="Wondrous Blue Mushrooms"/>
+        <brush name="Grass Tufts 1 (Frozen)"/>
+        <brush name="Grass Tufts 2 (Frozen)"/>
+        <brush name="Watertop Plants (Frozen)"/>
+        <brush name="Frozen Ferns"/>
+
+        <!-- Stones -->
+        <item id="886"/>
+        <brush name="Frozen Pebbles [Z: Size]"/>
+        <brush name="White Plain Stones [Z: Size]"/>
+        <brush name="Bright Plain Stonepiles (Winter)"/>
+        <item id="2197"/>
+        <item id="2194"/>
+        <item id="2200"/>
+        <item id="2196"/>
+        <item id="2193"/>
+        <item id="2199"/>
+        <item id="2195"/>
+        <item id="2192"/>
+        <item id="2198"/>
+
+        <!-- Other -->
+        <brush name="Covers of Snow [Z: Size]"/>
+
+    </doodad>
+</tileset>
+
+<tileset name="Agriculture">
+    <doodad>
+        <item id="179"/>
+        <brush name="Corn"/>
+        <brush name="Harvested Corn"/>
+        <item id="179"/>
+		<item id="180" />
+		<item id="181" />
+		<item id="182" />
+		<item id="186" />
+		<item id="187" />
+		<item id="188" />
+    </doodad>
+</tileset>
+
+<tileset name="Underwater">
+    <doodad>
+        <brush name="Submerged Stones [Z: Size]"/>
+        <brush name="Half-Submerged Large Stones"/>
+        <brush name="Swinging Algae"/>
+		<item id="351" />
+		<item id="352" />
+		<item id="353" />
+		<item id="354" />
+		<item id="355" />
+		<item id="356" />
+		<item id="357" />
+		<item id="940" />
+		<item id="941" />
+		<item id="942" />
+		<item id="943" />
+		<item id="944" />
+		<item id="945" />
+		<item id="946" />
+		<item id="947" />
+		<item id="948" />
+		<item id="949" />
+		<item id="950" />
+		<item id="951" />
+		<item id="952" />
+		<item id="953" />
+    </doodad>
+</tileset>
+
+<tileset name="Hangables">
+    <doodad>
+        <brush name="Jasmine Wallflowers"/>
+        <item id="430"/>
+        <item id="431"/>
+        <item id="432"/>
+        <item id="433"/>
+        <brush name="Gold Framed Painting"/>
+        <brush name="Winter Village Painting"/>
+        <brush name="Red Painting"/>
+        <brush name="Night Over The Forest Painting"/>
+        <brush name="Sunset over the Sea Painting"/>
+        <brush name="Oriental Painting"/>
+        <item id="1410"/>
+        <item id="277"/>
+        <brush name="Empty Wooden Sign (Z: Flip)"/>
+        <brush name="Tavern Sign (Z: Flip)"/>
+        <brush name="Restaurant Sign (Z: Flip)"/>
+        <brush name="Tool Store Sign (Z: Flip)"/>
+        <brush name="Post Office Sign (Z: Flip)"/>
+        <brush name="Armor Store Sign (Z: Flip)"/>
+        <brush name="Weapon Store Sign (Z: Flip)"/>
+        <brush name="Flicker of Snow (Z: Flip)"/>
+    </doodad>
+</tileset>
+
+<tileset name="Interior and Detail">
+    <doodad>
+        <brush name="Oriental Red Carpet"/>
+        <brush name="Open Book"/>
+        <brush name="Silverware 1"/>
+        <item id="933"/>
+        <item id="934"/>
+    </doodad>
+</tileset>
+
+<tileset name="Bones and Corpses">
+    <doodad>
+        <item id="191"/>
+        <item fromid="1197" toid="1200"/>
+        <item fromid="2256" toid="2260"/>
+        <item fromid="2463" toid="2465"/>
+    </doodad>
+</tileset>
+
+<tileset name="Furniture">
+    <doodad>
+        <brush name="Wooden Counter"/>
+        <brush name="Brown Wooden Table"/>
+        <brush name="Brown Wood Chest"/>
+        <brush name="Golden Lock Chest"/>
+        <item fromid="161" toid="163"/>
+        <item fromid="164" toid="171"/>
+        <item id="311"/>
+        <item id="376"/>
+        <item fromid="424" toid="427"/>
+        <brush name="Piano"/>
+        <brush name="Brittlewood Table (Stackable)"/>
+        <brush name="Brittlewood Table (NonStackable)"/>
+        <item id="498"/>
+        <brush name="Giant Bed"/>
+        <brush name="Wide Bed"/>
+        <brush name="Cabinet Wardrobe"/>
+        <brush name="Blue Bed"/>
+        <brush name="Red Bed"/>
+        <brush name="Green Bed"/>
+        <brush name="Blue Double Bed"/>
+        <brush name="Red Double Bed"/>
+        <brush name="Green Double Bed"/>
+        <item id="1408"/>
+    </doodad>
+</tileset>
+
+<tileset name="Exterior">
+    <doodad>
+        <item id="224"/>
+        <item id="2364"/>
+        <item id="2365"/>
+        <item id="2459"/>
+        <item id="2460"/>
+        <item id="2461"/>
+        <item id="2346"/>
+        <item id="2362"/>
+        <item id="2343"/>
+        <item id="2361"/>
+        <brush name="Small Lying Trunk"/>
+        <brush name="Piles of Cut Wood"/>
+        <brush name="Pile of Tree Trunks"/>
+        <brush name="Cart Cargo (Wood)"/>
+        <brush name="Fireplace (Unlit)"/>
+        <brush name="Fireplace (Lit)"/>
+        <brush name="Fireplace Chimney"/>
+        <brush name="Empty Wooden Wagon"/>
+        <brush name="Empty Wooden Double Wagon"/>
+        <item id="1881"/>
+        <item id="1883"/>
+        <item id="1885"/>
+        <item id="1890"/>
+        <item id="1884"/>
+        <item id="1889"/>
+        <item id="1887"/>
+        <item id="1888"/>
+        <item id="1877"/>
+        <item id="1878"/>
+        <item id="1882"/>
+        <item id="1879"/>
+        <item id="1880"/>
+        <item id="1886"/>
+        <item id="265"/>
+        <item id="975"/>
+        <item id="976"/>
+        <item id="977"/>
+        <item id="112"/>
+        <item id="113"/>
+        <item id="121"/>
+        <item id="262"/>
+        <item id="263"/>
+        <item id="264"/>
+        <item id="114"/>
+        <item id="120"/>
+        <item id="134"/>
+        <item id="183"/>
+        <item id="185"/>
+        <item id="1193"/>
+        <item id="1194"/>
+        <item id="1195"/>
+        <item id="1196"/>
+        <item id="978"/>
+        <item id="979"/>
+        <item fromid="409" toid="413"/>
+        <item id="223"/>
+        <item fromid="2606" toid="2607"/>
+        <item id="2458"/>
+        <item fromid="2225" toid="2227"/>
+        <item id="278"/>
+        <item id="115"/>
+        <item id="122"/>
+        <item id="471"/>
+        <item id="937"/>
+        <item id="1019"/>
+    </doodad>
+</tileset>
+
+<tileset name="Splashes and Liquids">
+    <doodad>
+        <brush name="Blood 1"/>
+        <brush name="Blood 2"/>
+        <brush name="Blood 3"/>
+    </doodad>
+</tileset>
+
+<tileset name="Structure">
+    <doodad>
+        <item id="1160"/>
+        <item id="1409"/>
+        <brush name="Wooden Bridge (Z: Flip)"/>
+        <brush name="Wooden Snowed Bridge (Z: Flip)"/>
+        <brush name="Small Wooden Gate Roof"/>
+    </doodad>
+</tileset>
+
+</materials>

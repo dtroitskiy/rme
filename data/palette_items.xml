@@ -1,0 +1,342 @@
+<materials>
+	<tileset name="Equipment: Ammunition">
+		<items>
+			<item fromid="1237" toid="1246"/>
+			<item id="2653"/>
+		</items>
+	</tileset>
+	<tileset name="Equipment: Head">
+		<items>
+			<item id="1247"/>
+			<item id="1258"/>
+			<item id="1263"/>
+			<item id="1269"/>
+			<item id="1279"/>
+			<item id="1286"/>
+			<item id="1292"/>
+			<item id="1299"/>
+			<item id="1304"/>
+			<item id="1311"/>
+			<item id="1318"/>
+			<item id="2758"/>
+			<item id="2763"/>
+			<item id="2764"/>
+			<item fromid="2766" toid="2779"/>
+			<item id="2694"/>
+			<item id="2714"/>
+			<item id="2720"/>
+			<item id="2722"/>
+			<item id="2728"/>
+			<item id="2733"/>
+		</items>
+	</tileset>
+    	<tileset name="Equipment: Body">
+		<items>
+			<item id="1248"/>
+			<item id="1259"/>
+			<item id="1264"/>
+			<item id="1270"/>
+			<item id="1280"/>
+			<item id="1287"/>
+			<item id="1293"/>
+			<item id="1300"/>
+			<item id="1305"/>
+			<item id="1312"/>
+			<item id="1319"/>
+			<item id="2759"/>
+			<item id="2790"/>
+			<item id="2791"/>
+			<item id="2630"/>
+			<item id="2663"/>
+			<item id="2692"/>
+			<item id="2695"/>
+			<item fromid="2699" toid="2704"/>
+			<item fromid="2706" toid="2708"/>
+			<item id="2711"/>
+			<item id="2712"/>
+			<item id="2716"/>
+			<item id="2718"/>
+			<item id="2719"/>
+			<item id="2721"/>
+			<item id="2723"/>
+			<item id="2726"/>
+			<item id="2727"/>
+			<item id="2729"/>
+			<item id="2734"/>
+			<item id="2737"/>
+			<item id="2743"/>
+			<item id="2746"/>
+		</items>
+	</tileset>
+	<tileset name="Equipment: Leg">
+		<items>
+			<item id="1249"/>
+			<item id="1260"/>
+			<item id="1265"/>
+			<item id="1271"/>
+			<item id="1281"/>
+			<item id="1288"/>
+			<item id="1294"/>
+			<item id="1301"/>
+			<item id="1306"/>
+			<item id="1313"/>
+			<item id="1320"/>
+			<item id="2760"/>
+			<item id="2789"/>
+			<item id="2656"/>
+			<item id="2697"/>
+			<item id="2705"/>
+			<item id="2709"/>
+			<item id="2715"/>
+			<item id="2717"/>
+			<item id="2724"/>
+			<item id="2730"/>
+			<item id="2735"/>
+			<item id="2747"/>
+			<item id="2748"/>
+			<item id="2757"/>
+		</items>
+	</tileset>
+	<tileset name="Equipment: Feet">
+		<items>
+			<item id="1250"/>
+			<item id="1261"/>
+			<item id="1266"/>
+			<item id="1272"/>
+			<item id="1282"/>
+			<item id="1289"/>
+			<item id="1295"/>
+			<item id="1302"/>
+			<item id="1307"/>
+			<item id="1314"/>
+			<item id="1321"/>
+			<item id="2762"/>
+			<item id="2698"/>
+			<item id="2710"/>
+			<item id="2725"/>
+			<item id="2731"/>
+			<item id="2736"/>
+			<item id="2744"/>
+			<item id="2745"/>
+		</items>
+	</tileset>
+	<tileset name="Equipment: Neck">
+		<items>
+			<item id="2633"/>
+			<item id="2634"/>
+			<item fromid="2644" toid="2652"/>
+			<item id="2666"/>
+		</items>
+	</tileset>
+
+	<tileset name="Equipment: Rings">
+		<items>
+			<item id="1252"/>
+			<item id="1256"/>
+			<item fromid="2637" toid="2643"/>
+			<item id="2654"/>
+			<item id="2664"/>
+			<item id="2667"/>
+		</items>
+	</tileset>
+    	<tileset name="Equipment: Gloves">
+		<items>
+			<item id="1251"/>
+			<item id="1278"/>
+			<item id="1296"/>
+			<item id="1303"/>
+			<item id="1308"/>
+			<item id="1315"/>
+			<item id="2761"/>
+			<item id="2765"/>
+			<item id="2696"/>
+			<item id="2713"/>
+			<item id="2732"/>
+			<item id="2738"/>
+			<item id="2739"/>
+			<item id="2740"/>
+			<item id="2741"/>
+			<item id="2742"/>
+		</items>
+	</tileset>
+
+	<tileset name="Equipment: Arms/Shoulders">
+		<items>
+			<item id="2693"/>
+			<item fromid="2749" toid="2756"/>
+		</items>
+	</tileset>
+
+	<tileset name="Equipment: Shields">
+		<items>
+			<item id="1253"/>
+			<item id="1283"/>
+			<item id="1290"/>
+			<item id="1316"/>
+			<item fromid="2780" toid="2788"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Axes / Polearms">
+		<items>
+			<item id="159"/>
+			<item id="1257"/>
+			<item id="1262"/>
+			<item id="1273"/>
+			<item id="1284"/>
+			<item id="1285"/>
+			<item id="1166"/>
+			<item fromid="2608" toid="2617"/>
+			<item id="2632"/>
+			<item id="2683"/>
+		</items>
+	</tileset>
+    	<tileset name="Weapons: Maces">
+		<items>
+			<item id="1255"/>
+			<item id="1275"/>
+			<item id="1414"/>
+			<item fromid="2668" toid="2678"/>
+			<item fromid="2681" toid="2682"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Swords">
+		<items>
+			<item id="1274"/>
+			<item id="1317"/>
+			<item id="1165"/>
+			<item id="1167"/>
+			<item id="2629"/>
+			<item fromid="2684" toid="2690"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Daggers">
+		<items>
+			<item id="1291"/>
+			<item id="2631"/>
+			<item id="2691"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Magical">
+		<items>
+			<item id="1254"/>
+			<item id="1267"/>
+			<item id="1310"/>
+			<item id="1323"/>
+			<item fromid="2792" toid="2796"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Bows">
+		<items>
+			<item id="1276"/>
+			<item id="1297"/>
+			<item id="2618"/>
+			<item id="2619"/>
+			<item id="2620"/>
+			<item id="2621"/>
+			<item id="2622"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Crossbows">
+		<items>
+			<item id="1277"/>
+			<item id="1298"/>
+			<item id="2623"/>
+			<item id="2624"/>
+		</items>
+	</tileset>
+
+	<tileset name="Weapons: Throwable">
+		<items>
+			<item id="2625"/>
+			<item id="2626"/>
+			<item id="2627"/>
+			<item id="2628"/>
+		</items>
+	</tileset>
+
+	<tileset name="Equipment: Spellscrolls">
+		<items>
+			<item id="1268"/>
+			<item id="1309"/>
+			<item id="1322"/>
+		</items>
+	</tileset>
+
+	<tileset name="Tools">
+		<items>
+			<item id="1106"/>
+			<item id="1107"/>
+			<item id="1108"/>
+			<item id="2679"/>
+			<item id="2680"/>
+		</items>
+	</tileset>
+
+	<tileset name="Food">
+		<items>
+			<item id="108"/>
+			<item id="109"/>
+			<item id="110"/>
+			<item id="111"/>
+			<item id="158"/>
+			<item id="154"/>
+			<item id="155"/>
+			<item id="160"/>
+		</items>
+	</tileset>
+
+	<tileset name="Consumable">
+		<items>
+			<item id="2635"/>
+			<item id="2636"/>
+			<item id="1161"/>
+		</items>
+	</tileset>
+
+	<tileset name="Containers">
+		<items>
+			<item fromid="161" toid="163"/>
+		</items>
+	</tileset>
+
+	<tileset name="Materials">
+		<items>
+			<item id="2657"/>
+			<item id="2659"/>
+			<item id="2660"/>
+		</items>
+	</tileset>
+
+	<tileset name="Quest Items">
+		<items>
+			<item id="2655"/>
+			<item id="2665"/>
+		</items>
+	</tileset>
+
+	<tileset name="Valuables">
+		<items>
+			<item fromid="1162" toid="1164"/>
+		</items>
+	</tileset>
+
+	<tileset name="Writeable">
+		<items>
+			<item id="2661"/>
+			<item id="2662"/>
+		</items>
+	</tileset>
+
+	<tileset name="Other">
+		<items>
+			<item id="2658"/>
+		</items>
+	</tileset>
+
+</materials>

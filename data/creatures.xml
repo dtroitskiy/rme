@@ -96,4 +96,25 @@
 	<creature name="Outlaw attack" type="monster" looktype="94" />
 	<creature name="Caravan guard" type="monster" looktype="95" />
 	<creature name="Caravan guard attack" type="monster" looktype="96" />
+	<creature name="White Wolf" type="monster" looktype="97" />
+	<creature name="White Wolf attack" type="monster" looktype="98" />
+	<creature name="White Wolf death" type="monster" looktype="99" />
+	<creature name="Boar" type="monster" looktype="100" />
+	<creature name="Boar attack" type="monster" looktype="101" />
+	<creature name="Boar death" type="monster" looktype="102" />
+	<creature name="Polar Bear" type="monster" looktype="103" />
+	<creature name="Polar Bear attack" type="monster" looktype="104" />
+	<creature name="Polar Bear death" type="monster" looktype="105" />
+	<creature name="Elf Warrior" type="monster" looktype="106" />
+	<creature name="Elf Warrior attack" type="monster" looktype="107" />
+	<creature name="Elf Warrior death" type="monster" looktype="108" />
+	<creature name="Brown Bear" type="monster" looktype="109" />
+	<creature name="Brown Bear attack" type="monster" looktype="110" />
+	<creature name="Brown Bear death" type="monster" looktype="111" />
+	<creature name="Hooded Mage" type="monster" looktype="112" />
+	<creature name="Player with wand attack" type="monster" looktype="113" />
+	<creature name="Player with wand death" type="monster" looktype="114" />
+	<creature name="Grey Wolf" type="monster" looktype="115" />
+	<creature name="Grey Wolf attack" type="monster" looktype="116" />
+	<creature name="White Wolf death" type="monster" looktype="117" />
 </creatures>

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <materials>
-	<include file="tilesets.xml" />
-	<include file="grounds.xml" />
-	<include file="borders.xml" />
-	<include file="doodads.xml" />
-	<include file="walls.xml" />
+    <!-- Order of loading is important! -->
+    <!-- Can not reference a brush in an XML which has not already been loaded prior to that reference. -->
+
+    <!-- Defines borders -->
+	<include file="def_borders.xml" />
+    <!-- Defines grounds -->
+	<include file="def_grounds.xml" />
+    <!-- Defines walls -->
+	<include file="def_walls.xml" />
+    <!-- For all other defs -->
+	<include file="def_other_brushes.xml" />
+
+    <!-- Add content to palettes: -->
+	<include file="palette_terrains.xml" />
+	<include file="palette_doodads.xml" />
+	<include file="palette_items.xml" />
+	<include file="palette_raw.xml" />
 </materials>
